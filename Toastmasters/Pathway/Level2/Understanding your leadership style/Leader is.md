@@ -7,11 +7,11 @@ because they are stubborn, inflexible and never listen to the others.
 Then what kind of person can be considered as a leader? Here I want to share how I see a leader.
 You can guess from what we talked, the opposite characters of Kkondae.
 
-	1. Leaders listen to you, if a team member has something that they want to talk, whether it's for the coaching, solution for the problem, or sharing the emotion, leaders usually have time to listen to them because leaders want to look after their friends, family, and coworkers. And to do that they need to understand the people around them, so they listen to you.
+1. Leaders listen to you, if a team member has something that they want to talk, whether it's for the coaching, solution for the problem, or sharing the emotion, leaders usually have time to listen to them because leaders want to look after their friends, family, and coworkers. And to do that they need to understand the people around them, so they listen to you.
 	
-	2. Leaders try to find the solution together when you struggle, although they may not have the solution for all, they will not leave you alone because they want you to get through.
+2. Leaders try to find the solution together when you struggle, although they may not have the solution for all, they will not leave you alone because they want you to get through.
 	
-	3. Leaders may request you for the complete success of work, but at the same time, they never forget the blood and tears and sweat of you, because, without you all, they will never be the leaders.
+3. Leaders may request you for the complete success of work, but at the same time, they never forget the blood and tears and sweat of you, because, without you all, they will never be the leaders.
 
 
 so, the Leader is the person who listens to you in any circumstances, helps you find the solution together when you are in need of help and maybe never forget to reward you for the hard work even when you fail.
@@ -42,4 +42,5 @@ I know that leaders try to keep the "Momentum" of their team, because, with that
 Leadership is like a wind.
 
 You don't feel it exist until the grass is laying down or leaves are swayed.
-Same to the Leadership, you may not think it's important or you don't even feel the power of it when everything is normal, but if you experience something with leaders, you know it's there and you will feel that you are in a safer place than before. Because that's what leaders do.
+Same to the Leadership, you may not think it's important or you don't even feel the power of it when everything is normal, but if you experience something with leaders, you know it's there and you will feel that you are in a safer place than before.
+Because that's what leaders do.
