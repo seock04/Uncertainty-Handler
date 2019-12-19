@@ -1,5 +1,5 @@
 # Uncertainty-Handler
-This repository will have history and plan for the life as uncertainty handler
+This repository will have history and plan of my life as uncertainty handler
 
 # SW Engineer 
 * [Work experiences](https://github.com/seock04/Uncertainty-Handler/wiki/Work-Experiences)
