@@ -5,7 +5,7 @@
 * [System Design](https://github.com/seock04/Uncertainty-Handler/wiki/System-Design)
 
 # Leadership
-* [Leadership in general](https://github.com/seock04/Uncertainty-Handler/wiki/Leadership)
+* [Leadership in general](https://github.com/seock04/Uncertainty-Handler/wiki/Leadership-in-General)
 * [Toastmasters](https://github.com/seock04/Uncertainty-Handler/wiki/Toastmaster)
 * [Agile and Corporate Culture](https://github.com/seock04/Uncertainty-Handler/wiki/Agile-and-Corporate-culture)
 
