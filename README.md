@@ -9,7 +9,7 @@
 * [Toastmasters](https://github.com/seock04/Uncertainty-Handler/wiki/Toastmaster)
 * [Agile and Corporate Culture](https://github.com/seock04/Uncertainty-Handler/wiki/Agile-and-Corporate-culture)
 
-#ETC
+# ETC
 * [Something good to know](https://github.com/seock04/Uncertainty-Handler/wiki/Something-good-to-know)
 
 # Me
