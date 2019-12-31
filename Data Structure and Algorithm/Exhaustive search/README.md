@@ -10,7 +10,7 @@
 6 -7 3 -1 5 2
 
 # Input for bicoloring
-// use either 1st or 2nd only
+> use either 1st or 2nd only
 3 
 3
 0 1
