@@ -11,6 +11,7 @@
 
 # Input for bicoloring
 > use either 1st or 2nd only
+
 3 
 3
 0 1
