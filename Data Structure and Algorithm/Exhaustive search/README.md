@@ -30,3 +30,10 @@ or
 0 6
 0 7
 0 8
+
+# Input for MinCoinCntVendingMachine
+> input is ordered
+
+730
+5
+10 50 100 500 1250
