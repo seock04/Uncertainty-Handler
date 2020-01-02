@@ -4,6 +4,13 @@
 30 10 20 35 40
 3 0 4 5 4
 
+# Input for Knapsak1-2
+
+4 5
+2 3
+1 2
+3 3
+2 2
 
 # Input for maximum sum
 6
