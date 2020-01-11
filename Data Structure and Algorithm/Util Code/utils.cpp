@@ -16,3 +16,5 @@ int min(int a, int b) { return a < b ? a : b; }
 
 int max(int a, int b) { return a < b ? b : a; }
 
+void SWAP(int& a, int& b) { int t = a; a = b; b = t; }
+
