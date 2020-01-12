@@ -1,3 +1,10 @@
+# Input for police
+6
+3
+3 5
+5 5
+2 3
+
 # Input for wire
 
 8
