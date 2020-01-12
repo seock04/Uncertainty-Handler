@@ -1,4 +1,4 @@
-# Input for police
+# Input for Police
 6
 3
 3 5
