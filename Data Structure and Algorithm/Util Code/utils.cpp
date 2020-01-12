@@ -18,3 +18,4 @@ int max(int a, int b) { return a < b ? b : a; }
 
 void SWAP(int& a, int& b) { int t = a; a = b; b = t; }
 
+int mABS(int v) { return v < 0 ? -v : v; }
