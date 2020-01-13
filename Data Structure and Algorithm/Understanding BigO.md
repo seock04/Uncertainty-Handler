@@ -1,5 +1,6 @@
+# This is short version of Big O chapter in "Cracking the Coding Interview 189 Programming Questions and Solutions"
+
 # Big O
-This is short version of Big O chapter in "Cracking the Coding Interview 189 Programming Questions and Solutions" 
 the language and metric we use to describe the efficiency of algorithms 
 
 ## An Analogy
