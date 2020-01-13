@@ -71,7 +71,8 @@ Therefore, X insertions take 0( 2X) time. The amortized time for each insertion 
 ![Example 6](Images/lognRuntimes.PNG)
 
 ### Recursive Runtimes
-
+![Example 7](Images/RecursiveRuntimes1.PNG)
+![Example 8](Images/RecursiveRuntimes2.PNG)
 
 
 # Reference
