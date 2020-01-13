@@ -40,17 +40,36 @@ require 0( n) space. If we need a two-dimensional array of size nxn, this will r
 ![Example 2](Images/spaceComplexity2.PNG)
 
 ### Drop the Constants
-![Example 1](Images/dropdowntheconstants.PNG)
+![Example 3](Images/dropdowntheconstants.PNG)
 
 
 ### Drop the Non-Dominant Terms
-![Example 1](Images/dropnondominant.PNG)
+![Example 4](Images/dropnondominant.PNG)
 
 ### Multi-Part Algorithms: Add vs. Multiply
-![Example 1](Images/addormultiply.PNG)
+![Example 5](Images/addormultiply.PNG)
 
 ### Amortized Time
+The array could be full. If the array contains N elements, then inserting a new element will take O(N) time.
+You will have to create a new array of size 2N and then copy N elements over. This insertion will take O ( N)
+time.
+
+However, we also know that this doesn't happen very often. The vast majority of the time insertion will be
+inO(l) time.
+
+As we insert elements, we double the capacity when the size of the array is a power of 2. So after X elements,
+we double the capacity at array sizes 1, 2, 4, 8, 16, ... , X. That doubling takes, respectively, 1, 2, 4, 8, 16, 32,
+64, ... , X copies.
+
+What is the sum of 1 + 2 + 4 + 8 + 16 + ... + X? If you read this sum left to right, it starts with 1 and doubles
+until it gets to X. If you read right to left, it starts with X and halves until it gets to 1.
+
+What then is the sum of X + X + X + X + ... + 1 ?This is roughly 2X.
+Therefore, X insertions take 0( 2X) time. The amortized time for each insertion is 0( 1).
+
 ### Log N Runtimes
+![Example 6](Images/lognRuntimes.PNG)
+
 ### Recursive Runtimes
 
 
