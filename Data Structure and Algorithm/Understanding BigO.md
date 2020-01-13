@@ -35,7 +35,24 @@ to anO(N2) runtime.
 amount of memory or space-required by an algorithm. If we need to create an array of size n, this will
 require 0( n) space. If we need a two-dimensional array of size nxn, this will require O( n2) space
 
-!(./Images/spaceComplexity1.PNG)
+![Example 1](Images/spaceComplexity1.PNG)
+
+![Example 2](Images/spaceComplexity2.PNG)
+
+### Drop the Constants
+![Example 1](Images/dropdowntheconstants.PNG)
+
+
+### Drop the Non-Dominant Terms
+![Example 1](Images/dropnondominant.PNG)
+
+### Multi-Part Algorithms: Add vs. Multiply
+![Example 1](Images/addormultiply.PNG)
+
+### Amortized Time
+### Log N Runtimes
+### Recursive Runtimes
+
 
 
 # Reference
