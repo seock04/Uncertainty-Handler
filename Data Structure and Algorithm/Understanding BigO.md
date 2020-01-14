@@ -40,17 +40,17 @@ require 0( n) space. If we need a two-dimensional array of size nxn, this will r
 
 ![Example 2](Images/spaceComplexity2.PNG)
 
-### Drop the Constants
+## Drop the Constants
 ![Example 3](Images/dropdowntheconstants.PNG)
 
 
-### Drop the Non-Dominant Terms
+## Drop the Non-Dominant Terms
 ![Example 4](Images/dropnondominant.PNG)
 
-### Multi-Part Algorithms: Add vs. Multiply
+## Multi-Part Algorithms: Add vs. Multiply
 ![Example 5](Images/addormultiply.PNG)
 
-### Amortized Time
+## Amortized Time
 The array could be full. If the array contains N elements, then inserting a new element will take O(N) time.
 You will have to create a new array of size 2N and then copy N elements over. This insertion will take O ( N)
 time.
@@ -68,10 +68,10 @@ until it gets to X. If you read right to left, it starts with X and halves until
 What then is the sum of X + X + X + X + ... + 1 ?This is roughly 2X.
 Therefore, X insertions take 0( 2X) time. The amortized time for each insertion is 0( 1).
 
-### Log N Runtimes
+## Log N Runtimes
 ![Example 6](Images/lognRuntimes.PNG)
 
-### Recursive Runtimes
+## Recursive Runtimes
 ![Example 7](Images/RecursiveRuntimes1.PNG)
 ![Example 8](Images/RecursiveRuntimes2.PNG)
 
