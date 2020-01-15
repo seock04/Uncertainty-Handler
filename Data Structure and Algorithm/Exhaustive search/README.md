@@ -1,3 +1,6 @@
+# Input for Number Sequence
+7
+
 # Input for Police
 6
 3
