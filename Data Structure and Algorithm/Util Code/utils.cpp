@@ -20,6 +20,14 @@ void SWAP(int& a, int& b) { int t = a; a = b; b = t; }
 
 int mABS(int v) { return v < 0 ? -v : v; }
 
+int mStrlen(char str[])
+{
+	int idx = 0;
+	while (str[idx] != '\0') idx++;
+	return idx;
+}
+
+
 //int Ceiling(float v)
 //{
 //	int a = v;
