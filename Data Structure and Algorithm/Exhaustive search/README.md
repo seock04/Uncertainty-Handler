@@ -1,3 +1,16 @@
+#Input for stone bridges
+RGS
+RINGSR
+GRGGNS
+
+RINGS
+SGNIRSGNIR
+GNIRSGNIRS
+
+GG
+GGGGRRRR
+IIIIGGGG
+
 # Input for airplain
 10 1
 10 1000
