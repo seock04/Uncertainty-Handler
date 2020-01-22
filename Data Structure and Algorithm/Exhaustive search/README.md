@@ -1,4 +1,16 @@
-#Input for stone bridges
+# Input for Saving the Princess
+8
+0 7 1
+3 4 1
+6 8 1
+8 6 1
+12 2 0
+13 2 1
+14 2 1
+15 7 1
+
+
+# Input for stone bridges
 RGS
 RINGSR
 GRGGNS
