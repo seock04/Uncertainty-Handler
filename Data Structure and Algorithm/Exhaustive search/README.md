@@ -1,3 +1,10 @@
+# Input for FireTrucks
+3 2
+12 50 81
+27 73
+
+
+
 # Input for Saving the Princess
 8
 0 7 1
