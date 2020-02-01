@@ -1,4 +1,4 @@
-#Input for Finding Shortest Path with Prunning
+# Input for Finding Shortest Path with Prunning
 5 7
 1 2 2
 1 3 10
