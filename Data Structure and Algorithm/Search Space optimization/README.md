@@ -1,3 +1,7 @@
+# How to improve the performance
+1) Find first answer with Greedy way
+2) Use it as base of prunning to dropdown
+
 # Input for Finding Shortest Path with Prunning
 5 7
 1 2 2
