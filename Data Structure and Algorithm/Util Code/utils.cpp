@@ -1,6 +1,16 @@
 
 // this file contain a few util code that is good to remember for the algorithm exam or coding interview
 
+void IntToArray(int n, int numbers[], int &len)
+{
+	if (n == 0) return;
+	int i = 0;
+	while (n) {
+		i = n % 10;
+		numbers[len++] = i;
+		n /= 10;
+	}
+}
 
 bool IsPrime(int x)
 {
@@ -27,6 +37,32 @@ int mStrlen(char str[])
 	return idx;
 }
 
+
+void quicksort(int arr[], int left, int right)
+{
+	int pivot;
+	int i, j;
+
+	if (left < right) {
+		pivot = left;
+		i = left;
+		j = right;
+
+		while (i < j) {
+			while (arr[i] <= arr[pivot] && i < right) i++;
+			while (arr[j] > arr[pivot]) j--;
+
+			if (i < j) {
+				SWAP(arr[i], arr[j]);
+			}
+		}
+		SWAP(arr[pivot], arr[j]);
+
+		quicksort(arr, left, j - 1);
+		quicksort(arr, j + 1, right);
+	}
+
+}
 
 //int Ceiling(float v)
 //{
