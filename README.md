@@ -15,3 +15,12 @@
 
 # Me
 * [Hoseock Choi](https://github.com/seock04/Uncertainty-Handler/wiki/Hoseock-Choi)
+
+# References
+
+## International
+* [Refactoring Guru](https://refactoring.guru/)
+
+## Korean
+* [코드, 패턴 그리고 소프트웨어 ](https://wikidocs.net/book/55)
+* [오래된 SW 엔지니어의 평생공부](https://technical-leader.tistory.com/)
