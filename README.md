@@ -8,7 +8,8 @@
 # Leadership
 * [Leadership in general](https://github.com/seock04/Uncertainty-Handler/wiki/Leadership-in-General)
 * [Toastmasters](https://github.com/seock04/Uncertainty-Handler/wiki/Toastmaster)
-* [Agile and Corporate Culture](https://github.com/seock04/Uncertainty-Handler/wiki/Agile-and-Corporate-culture)
+* [Agile Story](https://github.com/seock04/Uncertainty-Handler/wiki/Agile-Story)
+* [Corporate Culture](https://github.com/seock04/Uncertainty-Handler/wiki/Corporate-Culture)
 
 # ETC
 * [Something good to know](https://github.com/seock04/Uncertainty-Handler/wiki/Something-good-to-know)
@@ -17,7 +18,6 @@
 * [Hoseock Choi](https://github.com/seock04/Uncertainty-Handler/wiki/Hoseock-Choi)
 
 # References
-
 ## International
 * [Refactoring Guru](https://refactoring.guru/)
 
