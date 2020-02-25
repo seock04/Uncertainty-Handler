@@ -22,3 +22,4 @@
 * [코드, 패턴 그리고 소프트웨어 ](https://wikidocs.net/book/55)
 * [오래된 SW 엔지니어의 평생공부](https://technical-leader.tistory.com/)
 * [Self, Other and Context](https://selfothercontext.com/)
+* [Simon Sinek YouTube Chanel](https://www.youtube.com/user/SimonSinek/featured)
