@@ -8,7 +8,8 @@
 # Leadership
 * [Leadership in general](https://github.com/seock04/Uncertainty-Handler/wiki/Leadership-in-General)
 * [Toastmasters](https://github.com/seock04/Uncertainty-Handler/wiki/Toastmaster)
-* [Agile and Corporate Culture](https://github.com/seock04/Uncertainty-Handler/wiki/Agile-and-Corporate-culture)
+* [Agile Story](https://github.com/seock04/Uncertainty-Handler/wiki/Agile-Story)
+* [Corporate Culture](https://github.com/seock04/Uncertainty-Handler/wiki/Corporate-Culture)
 
 # ETC
 * [Something good to know](https://github.com/seock04/Uncertainty-Handler/wiki/Something-good-to-know)
@@ -17,10 +18,8 @@
 * [Hoseock Choi](https://github.com/seock04/Uncertainty-Handler/wiki/Hoseock-Choi)
 
 # References
-
-## International
 * [Refactoring Guru](https://refactoring.guru/)
-
-## Korean
 * [코드, 패턴 그리고 소프트웨어 ](https://wikidocs.net/book/55)
 * [오래된 SW 엔지니어의 평생공부](https://technical-leader.tistory.com/)
+* [Self, Other and Context](https://selfothercontext.com/)
+* [Simon Sinek YouTube Chanel](https://www.youtube.com/user/SimonSinek/featured)
