@@ -1,4 +1,4 @@
-# Input for Binary Encription
+# Input for Binary Encryption
 3
 4
 0000
