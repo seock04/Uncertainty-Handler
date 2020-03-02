@@ -1,3 +1,12 @@
+#Input for Binary Decryption
+3
+4
+-1-01
+8
+1
+8
+--01-1-01
+
 # Input for Binary Encryption
 3
 4
