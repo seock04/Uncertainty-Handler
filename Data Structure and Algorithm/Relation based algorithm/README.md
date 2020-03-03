@@ -1,4 +1,7 @@
-#Input for Binary Decryption
+# Input for Partitioned
+5
+
+# Input for Binary Decryption
 3
 4
 -1-01
