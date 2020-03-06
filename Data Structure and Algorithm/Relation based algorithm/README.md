@@ -1,4 +1,4 @@
-#Input for Combination
+# Input for Combination
 2
 5 1
 10 5
