@@ -1,3 +1,7 @@
+# Input for Night Duty
+1 15
+2 5 7
+
 # Input for Combination
 2
 5 1
