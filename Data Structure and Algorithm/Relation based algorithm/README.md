@@ -1,3 +1,8 @@
+# Input for Combination
+2
+5 1
+10 5
+
 # Input for Partitioned
 5
 
