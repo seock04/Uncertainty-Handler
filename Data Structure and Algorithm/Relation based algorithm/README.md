@@ -1,3 +1,11 @@
+# Input for scv
+5 4
+0 1 0 0
+0 0 1 0
+1 1 0 0
+1 0 1 0
+1 1 0 0
+
 # Input for Night Duty
 1 15
 2 5 7
