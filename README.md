@@ -1,17 +1,22 @@
-# SW Engineer 
+## SW Engineer 
 * [Work experiences](https://github.com/seock04/Uncertainty-Handler/wiki/Work-Experiences)
 * [Code Review](https://github.com/seock04/Uncertainty-Handler/wiki/Code-Review)
 * [Data Structure & Algorithm](https://github.com/seock04/Uncertainty-Handler/wiki/Data-Structure-and-Algorithm)
 * [System Design](https://github.com/seock04/Uncertainty-Handler/wiki/System-Design)
 * [Security](https://github.com/seock04/Uncertainty-Handler/wiki/Security)
 
-# Leadership
+## Leadership
 * [Leadership in general](https://github.com/seock04/Uncertainty-Handler/wiki/Leadership-in-General)
 * [Toastmasters](https://github.com/seock04/Uncertainty-Handler/wiki/Toastmaster)
 * [Agile Story](https://github.com/seock04/Uncertainty-Handler/wiki/Agile-Story)
 * [Corporate Culture](https://github.com/seock04/Uncertainty-Handler/wiki/Corporate-Culture)
+* [Productivity](https://github.com/seock04/Uncertainty-Handler/wiki/Productivity)
 
-# ETC
+## Communication
+* [Discussion on Issues](https://github.com/seock04/Uncertainty-Handler/wiki/Discussion-on-Issues)
+
+## ETC
+* [Focus on Change](https://github.com/seock04/Uncertainty-Handler/wiki/Focus-on-Change)
 * [Something good to know](https://github.com/seock04/Uncertainty-Handler/wiki/Something-good-to-know)
 
 # Me
