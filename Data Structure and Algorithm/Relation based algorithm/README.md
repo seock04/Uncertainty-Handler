@@ -1,3 +1,11 @@
+# Input for knapsack
+4 5
+2 3
+1 2
+3 3
+2 2
+
+
 # Input for scv
 5 4
 0 1 0 0
