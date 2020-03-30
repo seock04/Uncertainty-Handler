@@ -1,3 +1,8 @@
+# Input for App
+5 60
+30 10 20 35 40
+3 0 3 5 4
+
 # Input for knapsack
 4 5
 2 3
