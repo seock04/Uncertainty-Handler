@@ -1,3 +1,11 @@
+# Input for Jack
+4 3
+2 2 1 5
+1
+3
+2
+
+
 # Input for App
 5 60
 30 10 20 35 40
