@@ -1,3 +1,20 @@
+# Input for Huffman Encoding
+5
+A 00
+B 01
+C 10
+D 110
+E 111
+00000101111
+
+# Input for Jack
+4 3
+2 2 1 5
+1
+3
+2
+
+
 # Input for App
 5 60
 30 10 20 35 40
