@@ -22,7 +22,7 @@ In this repo, I would like to share the things that I do as a Software Engineer,
 * [Discussion on Issues](https://github.com/seock04/Uncertainty-Handler/wiki/Discussion-on-Issues)
 
 ## ETC
-* [Focus on Change](https://github.com/seock04/Uncertainty-Handler/wiki/Focus-on-Change)
+* [This is New to me](https://github.com/seock04/Uncertainty-Handler/wiki/This-is-New-to-me)
 * [Something good to know](https://github.com/seock04/Uncertainty-Handler/wiki/Something-good-to-know)
 
 # Me
