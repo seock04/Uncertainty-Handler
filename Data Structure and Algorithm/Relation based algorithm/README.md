@@ -1,3 +1,7 @@
+# Input for Hue Circle
+4
+2
+
 # Input for Huffman Encoding
 5
 A 00
