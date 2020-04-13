@@ -1,4 +1,4 @@
-Welcome to the Uncertainty-Handler wiki!
+Welcome to the Uncertainty-Handler 
 
 In this repo, I would like to share the things that I do as a Software Engineer, Leader, Toastmaster.
 
@@ -35,3 +35,4 @@ In this repo, I would like to share the things that I do as a Software Engineer,
 * [오래된 SW 엔지니어의 평생공부](https://technical-leader.tistory.com/)
 * [Self, Other and Context](https://selfothercontext.com/)
 * [Simon Sinek YouTube Chanel](https://www.youtube.com/user/SimonSinek/featured)
+* [Uncertainty Handler](https://hoseockchoi.wordpress.com/)
