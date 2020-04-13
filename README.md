@@ -1,3 +1,9 @@
+Welcome to the Uncertainty-Handler wiki!
+
+In this repo, I would like to share the things that I do as a Software Engineer, Leader, Toastmaster.
+
+![](https://github.com/seock04/Uncertainty-Handler/blob/master/Resources/Screenshot_20200413-140757_Samsung%20Internet.jpg)
+
 ## SW Engineer 
 * [Work experiences](https://github.com/seock04/Uncertainty-Handler/wiki/Work-Experiences)
 * [Code Review](https://github.com/seock04/Uncertainty-Handler/wiki/Code-Review)
