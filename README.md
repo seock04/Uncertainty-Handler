@@ -21,8 +21,7 @@ In this repo, I would like to share the things that I do as a Software Engineer,
 ## Communication
 * [Tuesday with Hoseock](https://github.com/seock04/Uncertainty-Handler/wiki/Tuesday-with-Hoseock)
 
-## ETC
-* [This is New to me](https://github.com/seock04/Uncertainty-Handler/wiki/This-is-New-to-me)
+## Beyond
 * [Economy, Politics, Cultures and The People](https://github.com/seock04/Uncertainty-Handler/wiki/Economy,-Politics,-Cultures-and-the-People)
 
 # Me
