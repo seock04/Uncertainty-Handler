@@ -23,7 +23,6 @@ In this repo, I would like to share the things that I do as a Software Engineer,
 
 ## ETC
 * [This is New to me](https://github.com/seock04/Uncertainty-Handler/wiki/This-is-New-to-me)
-* [Something good to know](https://github.com/seock04/Uncertainty-Handler/wiki/Something-good-to-know)
 * [Economy, Politics, Cultures and The People](https://github.com/seock04/Uncertainty-Handler/wiki/Economy,-Politics,-Cultures-and-the-People)
 
 # Me
