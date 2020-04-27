@@ -27,6 +27,16 @@ int solve_DT(int n)
 	}
 }
 
+void solve_bottom_up_DT(int n)
+{
+	DT[1] = 1;
+	DT[2] = 3;
+	for (int i = 3; i <= n; i++) {
+		DT[i] = (2 * DT[i - 2] + DT[i - 1]) % M;		
+	}
+	cout << DT[n];
+}
+
 
 int main()
 {
@@ -39,9 +49,10 @@ int main()
 		DT[i] = -1;
 	}
 
-	int ret = solve_DT(N);
+	solve_bottom_up_DT(N);
+	//int ret = solve_DT(N);
 
-	cout << ret % M;
+	//cout << ret % M;
 	
 	return 0;
 }
