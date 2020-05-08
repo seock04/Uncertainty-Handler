@@ -1,3 +1,9 @@
+# Input for Latticed Path
+3 4
+
+
+
+
 # Input for FireTrucks
 3 2
 12 50 81
