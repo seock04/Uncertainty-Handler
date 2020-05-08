@@ -66,10 +66,10 @@ int main()
 		cin >> coins[i];
 	}
 	// exhaustive search approach
-	//solve(0, 0);
-	//cout << coin_cnt << endl;
+	/*solve(0, 0);
+	cout << coin_cnt << endl;*/
 
-	/*cout << betterSol(0);*/
+	/*cout << betterSol(0); // it does not work*/
 
 	//with DT
 	cout << betterSol_DT(0);
