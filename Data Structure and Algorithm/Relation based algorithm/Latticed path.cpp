@@ -21,9 +21,7 @@ int DT[110][110];
 
 int IsAvailable(int h, int w)
 {
-	if (0 == w) return 1;
-	int ans = (double)H / W <= (double)h / w;
-	return ans;
+	return !w || (double)H / W <= (double)h / w;
 }
 
 int solve2(int h, int w)
@@ -47,6 +45,20 @@ int betterSolution_DT(int h, int w)
 	}
 	return DT[h][w];
 }
+void solutionBottomUp()
+{
+	for (int i = 0; i <= H; i++) {
+		for (int j = 0; j <= W; j++) {
+			if (i == 0 && j == 0) 
+				DT[i][j] = 1;
+			else if (!IsAvailable(i, j)) 
+				DT[i][j] = 0;
+			else 
+				DT[i][j] = DT[i - 1][j] + DT[i][j - 1];	
+		}
+	}
+	cout << DT[H][W];
+}
 
 int main()
 {
@@ -56,6 +68,7 @@ int main()
 	//cout << ans;
 
 	//cout << solve2(0, 0);
-	cout << betterSolution_DT(0, 0) << endl;
+	//cout << betterSolution_DT(0, 0) << endl;
+	solutionBottomUp();
 	return 0;
 }
