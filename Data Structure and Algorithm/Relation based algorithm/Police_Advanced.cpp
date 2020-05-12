@@ -15,15 +15,22 @@ int dis(int a, int b)
 {
 	return mABS(Events[a][0] - Events[b][0]) + mABS(Events[a][1] - Events[b][1]);
 }
+int DT[MAXN][MAXN];
 
 int solve(int a, int b)
 {
-	int next = (a > b ? a : b) + 1;
-	if (next >= EventCount + 2)
-		return 0;
+	if (DT[a][b] == 0) {
+		int next = (a > b ? a : b) + 1;
+		if (next >= EventCount + 2)
+			DT[a][b] = 0;
+		else
+			DT[a][b] = min(solve(next, b) + dis(a, next), solve(a, next) + dis(next, b));
+	}
 
-	return min(solve(next,b)+dis(a,next), solve(a,next)+dis(next, b));
+	return DT[a][b];
+
 }
+
 int main()
 {
 	cin >> N;
@@ -38,6 +45,5 @@ int main()
 	for (int i = 2; i < EventCount + 2; i++) {
 		cin >> Events[i][0] >> Events[i][1];
 	}
-
 	cout << solve(0,1);
 }
