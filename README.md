@@ -19,7 +19,7 @@ In this repo, I would like to share the things that I do as a Software Engineer,
 * [Productivity](https://github.com/seock04/Uncertainty-Handler/wiki/Productivity)
 
 ## Communication
-* [We Talk](https://github.com/seock04/Uncertainty-Handler/wiki/We-Talk,-Tuesday-with-Hoseock)
+* [Talk matters](https://github.com/seock04/Uncertainty-Handler/wiki/Talk-matters,-Tuesday-with-Hoseock)
 
 ## Beyond
 * [Economy, Politics, Cultures and The People](https://github.com/seock04/Uncertainty-Handler/wiki/Economy,-Politics,-Cultures-and-the-People)
