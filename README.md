@@ -28,6 +28,7 @@ In this repo, I would like to share the things that I do as a Software Engineer,
 * [Hoseock Choi](https://github.com/seock04/Uncertainty-Handler/wiki/Hoseock-Choi)
 
 # References
+* [Agile Organization Development for Change](http://agile-od.net)
 * [애자일 이야기](http://agile.egloos.com/)
 * [Refactoring Guru](https://refactoring.guru/)
 * [코드, 패턴 그리고 소프트웨어 ](https://wikidocs.net/book/55)
