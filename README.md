@@ -19,7 +19,7 @@ In this repo, I would like to share the things that I do as a Software Engineer,
 * [Productivity](https://github.com/seock04/Uncertainty-Handler/wiki/Productivity)
 
 ## Career
-* [Project Manager](https://github.com/seock04/Uncertainty-Handler/wiki/Project-Manager)
+* [Project Manager](https://github.com/seock04/Uncertainty-Handler/wiki/Product-Manager)
 * [Architect/Tech Consultant](https://github.com/seock04/Uncertainty-Handler/wiki/SW-Architect-or-Tech-Consultant)
 * [Organizational Manager](https://github.com/seock04/Uncertainty-Handler/wiki/Organizational-Manager)
 
