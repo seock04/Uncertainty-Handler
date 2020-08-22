@@ -24,7 +24,7 @@ In this repo, I would like to share the things that I do as a Software Engineer,
 * [Organizational Manager](https://github.com/seock04/Uncertainty-Handler/wiki/Organizational-Manager)
 
 ## Communication
-* [Talk matters](https://github.com/seock04/Uncertainty-Handler/wiki/Talk-matters,-Tuesday-with-Hoseock)
+* [Talk matters](https://github.com/seock04/Uncertainty-Handler/wiki/Talk-matters,-Thursday-with-Hoseock)
 
 ## Beyond
 * [Economy, Politics, Cultures and The People](https://github.com/seock04/Uncertainty-Handler/wiki/Economy,-Politics,-Cultures-and-the-People)
