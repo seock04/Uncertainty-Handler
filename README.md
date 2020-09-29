@@ -25,6 +25,7 @@ In this repo, I would like to share the things that I do as a Software Engineer,
 
 ## Communication
 * [Talk matters](https://github.com/seock04/Uncertainty-Handler/wiki/Talk-matters,-Thursday-with-Hoseock)
+* [VD Language Study](https://github.com/seock04/Uncertainty-Handler/wiki/VD-Language-Study)
 
 ## Beyond
 * [Economy, Politics, Cultures and The People](https://github.com/seock04/Uncertainty-Handler/wiki/Economy,-Politics,-Cultures-and-the-People)
