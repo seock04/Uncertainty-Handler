@@ -15,17 +15,17 @@ int src;
 
 void resetVisited()
 {
-	for (int i = 0; i < N; i++) {
+	for (int i = 1; i <= N; i++) { //range of vertex 
 		visited[i] = false;
 	}
 }
 
 void Init()
 {
-	for (int i = 0; i < N; i++) {
+	for (int i = 0; i < MAX; i++) {
 		dist[i] = INF;
 		parent[i] = i;
-		for (int j = 0; j < N; j++) {
+		for (int j = 0; j < MAX; j++) {
 			map[i][j] = INF;
 		}
 	}
@@ -38,9 +38,9 @@ int getNearest()
 	int minValue = INF;
 	int minNode = 0;
 
-	for (int i = 0; i < N; i++) {
+	for (int i = 1; i <= N; i++) {
 		if (!visited[i]
-			&& (dist[i]< minValue)) {
+			&& (dist[i] < minValue)) {
 			minValue = dist[i];
 			minNode = i;
 		}
@@ -52,12 +52,12 @@ int getNearest()
 void dijkstra()
 {
 	dist[src] = 0;
-	
-	for (int i = 0; i < N; i++) {
+
+	for (int i = 1; i <= N; i++) {
 		int nearest = getNearest();
 		visited[nearest] = true;
 
-		for (int adj = 0; adj < N; adj++) {
+		for (int adj = 1; adj <= N; adj++) {
 			if (map[nearest][adj] != INF
 				&& dist[adj] > dist[nearest] + map[nearest][adj]) {
 				dist[adj] = dist[nearest] + map[nearest][adj];
@@ -71,23 +71,25 @@ void printShortestPath()
 {
 	cout << "=======================";
 	cout << "\n";
-	cout << src << " to " << i << "\n";
-	cout << "distance: " << dist[i] << '\n';
-	cout << "Path to " << i;
-	for (int i = 0; i < N; i++) {
+
+	for (int i = 1; i <= N; i++) {
+
+		cout << src << " to " << i << "\n";
+		cout << "distance: " << dist[i] << '\n';
+
 		int parentNode = parent[i];
 		while (parentNode != src) {
 			cout << parentNode << " <- ";
 			parentNode = parent[parentNode];
 		}
-		cout << "----------------------------\n";
+		cout << "\n----------------------------\n";
 	}
 }
 
 int main()
 {
 	cin >> N;
-	
+
 	int edges;
 	cin >> edges;
 
@@ -99,8 +101,9 @@ int main()
 		map[e][s] = v;
 	}
 
-	src = 0;
+	src = 1;
 	dijkstra();
 	printShortestPath();
 
+	return 0;
 }
