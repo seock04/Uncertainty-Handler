@@ -40,8 +40,8 @@ int getNearest()
 
 	for (int i = 0; i < N; i++) {
 		if (!visited[i]
-			&& map[src][i] < minValue) {
-			minValue = map[src][i];
+			&& (dist[i]< minValue)) {
+			minValue = dist[i];
 			minNode = i;
 		}
 	}
@@ -70,10 +70,14 @@ void dijkstra()
 void printShortestPath()
 {
 	cout << "=======================";
+	cout << "\n";
+	cout << src << " to " << i << "\n";
+	cout << "distance: " << dist[i] << '\n';
+	cout << "Path to " << i;
 	for (int i = 0; i < N; i++) {
-		int parentNode = i;
+		int parentNode = parent[i];
 		while (parentNode != src) {
-			cout << i << " <- ";
+			cout << parentNode << " <- ";
 			parentNode = parent[parentNode];
 		}
 		cout << "----------------------------\n";
