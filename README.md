@@ -23,7 +23,7 @@ In this repo, I would like to share the things that I do as a Software Engineer,
 * [Organizational Manager](https://github.com/seock04/Uncertainty-Handler/wiki/Organizational-Manager)
 
 ## Communication
-* [Talk matters](https://github.com/seock04/Uncertainty-Handler/wiki/Talk-matters,-Thursday-with-Hoseock)
+* [Talk matters](https://github.com/seock04/TalkMatters)
 * [VD Language Study](https://github.com/seock04/Uncertainty-Handler/wiki/VD-Language-Study)
 
 ## Beyond
