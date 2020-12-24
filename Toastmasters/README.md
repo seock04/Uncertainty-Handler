@@ -1,6 +1,7 @@
 # My Toastmaster Journey
 
-## 2020-2021 Area Director of Area 34 Division D, District 93
+## My Leadership Journey
+### 2020-2021 Area Director of Area 34 Division D, District 93
 * [Club Status](https://github.com/seock04/Uncertainty-Handler/wiki/2020-2021-Area-Club-Status)
 * [Toastmasters Online Meeting Guide](https://github.com/seock04/Uncertainty-Handler/wiki/Toastmasters-Online-Meetings)
 * [Education Materials](https://github.com/seock04/Uncertainty-Handler/wiki/Education-Materials)
@@ -10,7 +11,7 @@
 * [2020 Area Speech Contest](https://github.com/seock04/Uncertainty-Handler/wiki/2020-Area-34-Speech-Contest)
 
 
-## My Pathway
+## My Pathway Journey
 * [Project - Effective Coaching](https://github.com/seock04/Uncertainty-Handler/tree/master/Toastmasters/Pathway)
   * Completion of the Path
     * [Path Completion](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Pathway/Effective%20Coaching/Level5/Path%20Completion.md)
