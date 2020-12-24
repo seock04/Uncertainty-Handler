@@ -23,3 +23,9 @@
 ### Set new Toastmasters goals.
 > Describe your plans for remaining active in Toastmasters. These goals can include leadership roles at the club or district level as well as mentoring. 
 * TBD
+
+### As you reflect on what you have learned, describe:
+> The advice you would give to a new Toastmaster
+> How you would help someone who is just starting their first path
+> The obstacles you faced
+> How you overcame these obstacles
