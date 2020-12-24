@@ -25,7 +25,7 @@
 * TBD
 
 ### As you reflect on what you have learned, describe:
-> The advice you would give to a new Toastmaster
-> How you would help someone who is just starting their first path
-> The obstacles you faced
-> How you overcame these obstacles
+> The advice you would give to a new Toastmaster <p>
+> How you would help someone who is just starting their first path <p>
+> The obstacles you faced <p>
+> How you overcame these obstacles <p>
