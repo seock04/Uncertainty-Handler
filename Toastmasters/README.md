@@ -13,7 +13,7 @@
 ## My Pathway
 * [Project - Effective Coaching](https://github.com/seock04/Uncertainty-Handler/tree/master/Toastmasters/Pathway)
   * Completion of the Path
-    * [Path Completion]()
+    * [Path Completion](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Pathway/Effective%20Coaching/Level5/Path%20Completion.md)
   * Level 5:
     * [High Performance Leadership](https://github.com/seock04/Uncertainty-Handler/wiki/%5BEffective-Coaching%5D--High-Performance-Leadership)
       * [Talk Matters](https://github.com/seock04/Uncertainty-Handler/wiki/Talk-matters,-Thursday-with-Hoseock)
