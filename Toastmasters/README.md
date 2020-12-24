@@ -9,7 +9,8 @@
 * [Self Introduction intro](https://github.com/seock04/Uncertainty-Handler/wiki/beginning-of-self-introduction-as-area-director)
 * [Guide document](https://github.com/seock04/Uncertainty-Handler/wiki/Guide-Documents)
 * [2020 Area Speech Contest](https://github.com/seock04/Uncertainty-Handler/wiki/2020-Area-34-Speech-Contest)
-
+### Club President - Samsung One Toastmasters (SOTM) From Jan. 01, 2019 to Jun. 30, 2019
+### Club President - Gumi Smart-City Toastmasters Club From Jul. 01, 2014 to Dec. 31, 2014
 
 ## My Pathway Journey
 * [Project - Effective Coaching](https://github.com/seock04/Uncertainty-Handler/tree/master/Toastmasters/Pathway)
