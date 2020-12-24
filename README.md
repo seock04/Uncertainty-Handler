@@ -12,7 +12,7 @@ In this repo, I would like to share the things that I do as a Software Engineer,
 
 ## Leadership
 * [Leadership in general](https://github.com/seock04/Uncertainty-Handler/wiki/Leadership-in-General)
-* [Toastmasters](https://github.com/seock04/Uncertainty-Handler/wiki/Leader,-Public-Speaker-as-Toastmaster)
+* [Toastmasters](https://github.com/seock04/Uncertainty-Handler/tree/master/Toastmasters)
 * [Agile Story](https://github.com/seock04/Uncertainty-Handler/wiki/Agile-Story)
 * [Corporate Culture](https://github.com/seock04/Uncertainty-Handler/wiki/Corporate-Culture)
 * [Productivity](https://github.com/seock04/Uncertainty-Handler/wiki/Productivity)
