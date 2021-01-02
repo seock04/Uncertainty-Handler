@@ -1,12 +1,12 @@
 # Data structure and algorithm
-* I will save some cpp sample code that are good to remember
+* This is a place where I train myself for the understanding of sw algorithm
 
 ### LeetCode Daily Challenge Status
 * 2020 December - [42% submission rate](https://leetcode.com/explore/featured/card/december-leetcoding-challenge/)
 * 2021 January - [TBD - submission rate](https://leetcode.com/explore/featured/card/january-leetcoding-challenge-2021/)
 
-## Train with this
-* 문제해결을 위한 창의적 알고리즘(고급) 책 스터디 완료 하기 ( ~8.15)
+## Algorithm Training Basic
+* 문제해결을 위한 창의적 알고리즘(고급) 책 스터디 완료 하기 ( ~8.15.2020)
 * [BackJoon 단계별 코딩 연습](https://github.com/seock04/Uncertainty-Handler/tree/master/Data%20Structure%20and%20Algorithm)
   * 59 계 단계 실습 https://www.acmicpc.net/step
   * 예제 코드 코딩 하고 돌려보기 https://github.com/Readiz/backjoon 
