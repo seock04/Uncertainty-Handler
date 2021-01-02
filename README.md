@@ -6,7 +6,7 @@ In this repo, I would like to share the things that I do as a Software Engineer,
 
 ## SW Engineer 
 * [Work experiences](https://github.com/seock04/Uncertainty-Handler/wiki/Work-Experiences)
-* [Algorithm Challenge](./Data Structure and Algorithm/README.md)
+* [Algorithm Challenge](https://github.com/seock04/Uncertainty-Handler/blob/master/Data%20Structure%20and%20Algorithm/README.md)
 * [SW Certification](https://github.com/seock04/Uncertainty-Handler/wiki/Samsung-Software-Certification)
 * [System Design](https://github.com/seock04/Uncertainty-Handler/wiki/System-Design)
 * [Security](https://github.com/seock04/Uncertainty-Handler/wiki/Security)
