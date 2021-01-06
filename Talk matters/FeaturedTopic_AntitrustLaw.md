@@ -1,5 +1,7 @@
 ## What is it?
 * [WHY ANTITRUST LAWS MATTER?](https://www.markhamlawfirm.com/law-articles/why-antitrust-laws-matter/)
+* Monopoly...?
+
 
 ### Questions
 * Did you know about the antitrust law? 
@@ -30,6 +32,10 @@
 * [Buying "Washington Post"](https://www.bbc.com/news/av/business-23582797)
 * Now Move to the AWS, the biggest cloud Service provider
 
+### Questions
+* After you heard about the Amazon's case, Do you think it's fair to give power to regulate the market in there site?
+* How do you feel about the Customer obsession?
+
 
 ### Facebook
 * [Mark Zuckerberg](https://en.wikipedia.org/wiki/Mark_Zuckerberg)
@@ -38,3 +44,10 @@
   * removing compeditor or expansion of the service?
 * WhatsApp - the messenger app
   * again, is it removing future compeditor or expansion of the service? 
+  
+  
+### Questions
+* Do you feel acquisition of instragram a problem?
+* Do you think neuturalizing the compeditor by acquisition is an issue for the people?
+* What will happen if the those big giant tech company have even bigger influence on the people than the government?
+
