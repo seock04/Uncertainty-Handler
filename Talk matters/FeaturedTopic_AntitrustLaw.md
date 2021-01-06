@@ -41,9 +41,10 @@
 * [Mark Zuckerberg](https://en.wikipedia.org/wiki/Mark_Zuckerberg)
 * [Planet Money - The case against Facebook](https://www.npr.org/2020/12/16/947160910/the-case-against-facebook)
 * Instagram - different social media service
-  * removing compeditor or expansion of the service?
+  * neuturalizing the compeditor or expansion of the service?
 * WhatsApp - the messenger app
   * again, is it removing future compeditor or expansion of the service? 
+  * role back existing privacy commitment that they have promised at first
   
   
 ### Questions
