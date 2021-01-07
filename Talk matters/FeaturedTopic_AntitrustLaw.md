@@ -1,18 +1,11 @@
 ## What is it?
 * [WHY ANTITRUST LAWS MATTER?](https://www.markhamlawfirm.com/law-articles/why-antitrust-laws-matter/)
-* Monopoly...?
+* **Break the trust of group** that has trust on each other so much that they do not allow others come into their market
 
-
-### Questions
-* Did you know about the antitrust law? 
-* What do you think is the problem about these monopoly by big tech company?
 
 
 ## Naver
 * [South Korea slaps Naver with $23m fine for rigging search results](https://asia.nikkei.com/Business/Technology/South-Korea-slaps-Naver-with-23m-fine-for-rigging-search-results)
-
-### Questions
-* Do you think Naver did something wrong? isn't it nature of the company to utilize more than 100% of their asset to make money?
 
 
 ### Amazon
@@ -32,9 +25,6 @@
 * [Buying "Washington Post"](https://www.bbc.com/news/av/business-23582797)
 * Now Move to the AWS, the biggest cloud Service provider
 
-### Questions
-* After you heard about the Amazon's case, Do you think it's fair to give power to regulate the market in there site?
-* How do you feel about the Customer obsession?
 
 
 ### Facebook
@@ -46,9 +36,4 @@
   * again, is it removing future compeditor or expansion of the service? 
   * role back existing privacy commitment that they have promised at first
   
-  
-### Questions
-* Do you feel acquisition of instragram a problem?
-* Do you think neuturalizing the compeditor by acquisition is an issue for the people?
-* What will happen if the those big giant tech company have even bigger influence on the people than the government?
 
