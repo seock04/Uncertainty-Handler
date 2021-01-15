@@ -1,31 +1,60 @@
-# YOUR TOASTMASTERS JOURNEY
+# Effective Coaching
 
 ### List your accomplishments in Toastmasters.
-> Include everything you accomplished while progressing through your most recent path, from the smallest achievements to the largest successes.
-* TBD
+* Speeches
+  * [The Principle](https://hoseockchoi.wordpress.com/2020/04/09/the-principle/)
+![picture 5](../../../../images/1c337f9f67975eb7a29e7cca867fe648e5d7cb09de00ffcc26e1440c83a7eff2.png)  
+
+  * [The Next](https://hoseockchoi.wordpress.com/2020/03/28/the-next/)
+  ![picture 3](../../../../images/d638843401d9fe1e68b93ed1514fa6ba3da3aab3bf595b78b681e5601a32d832.png)  
+![picture 4](../../../../images/87f22bf5e9c75c9f4276c0e860642c5115f2df314bdf7f72b2c5cc536fb0283b.png)  
+
+* Area 34 Director
+  * [2020 Area 34 Speech Contest](https://github.com/seock04/Uncertainty-Handler/wiki/2020-Area-34-Speech-Contest)
+* [Talk Matters](https://github.com/seock04/TalkMatters)
+![picture 2](../../../../images/966230eb555ba346fac2bb0ea61907bf73c6e7f252f08e96f6e7f59b145def64.png)  
 
 ### List your accomplishments outside of Toastmasters.
-> Include everything you accomplished outside of Toastmasters from the beginning of your current path until now, from the smallest achievements to the largest successes.
-* TBD
+* Visual Studio Code Review Committee
+  * Catchphrase & Ground Rule campaign 
+* 2020 Code Review Best Practice Team Award
+  ![picture 1](../../../../images/cbbc992012e51c24c9471fd8a0031eaf7bb3b854a55f6a64cf31b788f5c07416.jpg)  
+
 
 ### Reflect on how much you have learned and gained.
 > Reflect on your knowledge, expertise, and confidence when you started your most recent path and compare that to now.
-* TBD
+* Conference phobia ?
+* Afraid of Public Speech ?
+  * At work
+  * Other Toastmasters Club & District Meeting 
+  * Online Meeting
+* Working with Smart People
+  * Explain Goal
+  * Build Trust
+    * Talk to them Authentically
+    * Have Faith on them
+    * Show your Support
+
 
 ### Describe the impact of being a Toastmaster.
 > Write about how Toastmasters has affected your life.
-* TBD
+* Establish Good habit of self learning cycle with people
+* Build good community where I want to live in
+* How to be supportive and positive
+* Having Good Mentors
 
 ### Think about your next steps.
-> Describe how you can apply the skills you learned to the accomplishment of future goals. These can include personal goals and helping others achieve their goals.
-* TBD
+* Find a purpose of my life
+  * code review, leadership, SW R&D cooperate culture
+  * Lead international none profit organization
+* Continue to establish good habit for personal growth
+* Do not stop pursuing the purpose 
 
 ### Set new Toastmasters goals.
-> Describe your plans for remaining active in Toastmasters. These goals can include leadership roles at the club or district level as well as mentoring. 
-* TBD
+* Distinguished Toastmasters
+* Become REAL Leader for the friends and colleague
 
-### As you reflect on what you have learned, describe:
-> The advice you would give to a new Toastmaster <p>
-> How you would help someone who is just starting their first path <p>
-> The obstacles you faced <p>
-> How you overcame these obstacles <p>
+## Next Pathway?
+### Visionary Communication
+> The Visionary Communication path is designed to help you build your skills as a strategic communicator and leader. The projects on this path focus on developing your skills for sharing information with a group, planning communications, and creating innovative solutions. Speech writing and speech delivery are emphasized in each project. This path culminates in the development and launch of a long-term personal or professional vision.
+
