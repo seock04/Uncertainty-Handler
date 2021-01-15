@@ -1,21 +1,26 @@
 # Effective Coaching
-
+## Title - Life with Toastmasters journey
 ### List your accomplishments in Toastmasters.
 * Speeches
   * [The Principle](https://hoseockchoi.wordpress.com/2020/04/09/the-principle/)
+<br>
+
 ![picture 5](../../../../images/1c337f9f67975eb7a29e7cca867fe648e5d7cb09de00ffcc26e1440c83a7eff2.png)  
 
   * [The Next](https://hoseockchoi.wordpress.com/2020/03/28/the-next/)
+<br>
+
   ![picture 3](../../../../images/d638843401d9fe1e68b93ed1514fa6ba3da3aab3bf595b78b681e5601a32d832.png)  
 ![picture 4](../../../../images/87f22bf5e9c75c9f4276c0e860642c5115f2df314bdf7f72b2c5cc536fb0283b.png)  
 
 * Area 34 Director
   * [2020 Area 34 Speech Contest](https://github.com/seock04/Uncertainty-Handler/wiki/2020-Area-34-Speech-Contest)
 * [Talk Matters](https://github.com/seock04/TalkMatters)
+  <br>
 ![picture 2](../../../../images/966230eb555ba346fac2bb0ea61907bf73c6e7f252f08e96f6e7f59b145def64.png)  
 
 ### List your accomplishments outside of Toastmasters.
-* Visual Studio Code Review Committee
+* Visual display Division Code Review Committee
   * Catchphrase & Ground Rule campaign 
 * 2020 Code Review Best Practice Team Award
   ![picture 1](../../../../images/cbbc992012e51c24c9471fd8a0031eaf7bb3b854a55f6a64cf31b788f5c07416.jpg)  
@@ -37,7 +42,6 @@
 
 
 ### Describe the impact of being a Toastmaster.
-> Write about how Toastmasters has affected your life.
 * Establish Good habit of self learning cycle with people
 * Build good community where I want to live in
 * How to be supportive and positive
