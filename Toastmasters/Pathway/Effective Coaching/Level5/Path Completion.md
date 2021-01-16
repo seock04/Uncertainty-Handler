@@ -22,7 +22,11 @@
 
 
 * Area 34 Director
-  * [2020 Area 34 Speech Contest](https://github.com/seock04/Uncertainty-Handler/wiki/2020-Area-34-Speech-Contest)
+  * 2020 Area 34 Speech Contest
+![picture 4](../../../../images/ab809f054c4ec5d8aed66e94fc711730e57fe014842648a5b984c29cda0fdfc2.png)  
+
+
+
 * [Talk Matters](https://github.com/seock04/TalkMatters)
   <br>
 ![picture 2](../../../../images/966230eb555ba346fac2bb0ea61907bf73c6e7f252f08e96f6e7f59b145def64.png)  
