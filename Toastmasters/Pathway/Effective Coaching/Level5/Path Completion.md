@@ -1,12 +1,12 @@
 # Effective Coaching
 ## Title - Life with Toastmasters journey
 ### List your accomplishments in Toastmasters.
-* Speeches
+* 18 Speeches
   * [The Principle](https://hoseockchoi.wordpress.com/2020/04/09/the-principle/)
 <br>
 
 ![picture 1](../../../../images/1ec4f75081aad1a64c68148306ab0ea570f7444e6f4931dd1affc936f2af7a1c.png) 
- 
+
 ![picture 5](../../../../images/1c337f9f67975eb7a29e7cca867fe648e5d7cb09de00ffcc26e1440c83a7eff2.png) 
 
   * [The Next](https://hoseockchoi.wordpress.com/2020/03/28/the-next/)
