@@ -5,13 +5,21 @@
   * [The Principle](https://hoseockchoi.wordpress.com/2020/04/09/the-principle/)
 <br>
 
-![picture 5](../../../../images/1c337f9f67975eb7a29e7cca867fe648e5d7cb09de00ffcc26e1440c83a7eff2.png)  
+![picture 1](../../../../images/1ec4f75081aad1a64c68148306ab0ea570f7444e6f4931dd1affc936f2af7a1c.png) 
+ 
+![picture 5](../../../../images/1c337f9f67975eb7a29e7cca867fe648e5d7cb09de00ffcc26e1440c83a7eff2.png) 
 
   * [The Next](https://hoseockchoi.wordpress.com/2020/03/28/the-next/)
 <br>
 
-  ![picture 3](../../../../images/d638843401d9fe1e68b93ed1514fa6ba3da3aab3bf595b78b681e5601a32d832.png)  
+![picture 2](../../../../images/973cdef251b1098dbca6ce2e77a6daaf03a327b32825fbac775f6fbe43189627.png)  
+ 
+
+  
 ![picture 4](../../../../images/87f22bf5e9c75c9f4276c0e860642c5115f2df314bdf7f72b2c5cc536fb0283b.png)  
+
+![picture 3](../../../../images/003e4d303d64b06d5bf69adae5fda646ccdf4f9938f0c20186a79c85d4bdb4dc.png)  
+
 
 * Area 34 Director
   * [2020 Area 34 Speech Contest](https://github.com/seock04/Uncertainty-Handler/wiki/2020-Area-34-Speech-Contest)
