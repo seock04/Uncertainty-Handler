@@ -11,7 +11,7 @@
 
 * Physiological training - agree, if you never spoke out that word, it's difficult to learn
 
-* Psycho-physiologycal state, you can not learn, - agree, but only for the fact that you should be comfortable to accept you are not perfect when learning language, don't pursue perfection, it may ruin you because you feel bad, focus on small amount of things that you learn at a time, then you fee better and you will learn
+* Psycho-physiologycal state should be stable, if not, you can not learn, - agree, but only for the fact that you should be comfortable to accept you are not perfect when learning language, don't pursue perfection, it may ruin you because you feel bad, focus on small amount of things that you learn at a time, then you fee better and you will learn
 
 
 
