@@ -52,7 +52,15 @@
 
 
 ### How to do Code Review
-* [Google](https://google.github.io/eng-practices/review/reviewer/)
+* **Google**
+  * [Google Code Review Practice Document Original](https://google.github.io/eng-practices/review/reviewer/)
+
+  * [Google 코드리뷰 가이드 한글번역](./Google-CodeReview-KR/README.md)
+
+
+
+
+
 
 
 
