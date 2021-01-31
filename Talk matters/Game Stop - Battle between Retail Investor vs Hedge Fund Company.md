@@ -149,15 +149,13 @@ You may not be able to see the price properly, but the highest is like 20~30 USD
 
 
 # Questions
-* How do you think will this battle end?
+* Are you retail investor?
+* Do you think retail investor does not have enough information to understand the fundermental of the company and invest like investing firm now?
+* How do you want this battle end?
 * How do you think it will be remembered later in the future?
-* 
 
 
-
-
-# References
-
+# References  
 * CNBC 차마스 짧은 인터뷰 - https://www.youtube.com/watch?v=wgYZk9Mc804 
 * CNBC 차마스 긴 인터뷰 - https://www.youtube.com/watch?v=ZZ_w5QAzmvY
 * 레딧의 Wallstreetbets - https://www.reddit.com/r/wallstreetbets/
