@@ -119,6 +119,10 @@ You may not be able to see the price properly, but the highest is like 20~30 USD
 # **It become the real WAR**
 ![picture 40](../images/31e57a240d47eb63bb4210146bb9d5d1376d702bf745b496ee2802c448d7aa26.png)  
 
+
+# Now, it's not just "Retail investors group" vs "Hedge Fund" 
+# But "Retail investors groups" vs "Hedge Funds" vs "Other Hedg Funds" 
+
 ### Here is something to remember  
 * Maybe Robinhood got connection with Citadel so they block the retain investor buying GME   
 ![picture 41](../images/fda379b5a37683ef36e2e78cb02cd70463a41f68e8ef9b18a643070f7d4a9cec.png)
@@ -151,8 +155,10 @@ You may not be able to see the price properly, but the highest is like 20~30 USD
 # Questions
 * Are you retail investor?
 * Do you think retail investor does not have enough information to understand the fundermental of the company and invest like investing firm now?
-* How do you want this battle end?
+* How do you think this battle end?
 * How do you think it will be remembered later in the future?
+* Can we say anyone will win in this war? why do you think so?
+* Do you think this kind of conflict between retail investors and funding company continue?
 
 
 # References  
