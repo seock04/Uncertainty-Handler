@@ -15,14 +15,14 @@ public:
             for(int j = 0;j < N; ++j){
                 
                 dp[i][j] = mt[i][j];
-                int mn = mt[i+1][j];
+                int mn = dp[i+1][j];
                 
                 if(j-1 >= 0){
-                    mn = min(mn, mt[i+1][j-1]);
+                    mn = min(mn, dp[i+1][j-1]);
                 }
                 
                 if(j+1 < N){
-                    mn = min(mn, mt[i+1][j+1]);
+                    mn = min(mn, dp[i+1][j+1]);
                 }
                 
                 dp[i][j] += mn;
@@ -30,6 +30,7 @@ public:
         }
         int result = INT_MAX;
         for(int i = 0; i<N; i++){
+            //cout << dp[0][i] << "\n";
             result = min(dp[0][i], result);
         }
         
