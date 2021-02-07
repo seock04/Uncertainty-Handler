@@ -3,13 +3,13 @@ public:
     vector<int> shortestToChar(string s, char c) {
         vector<int> pos;
         
-        for(int i = 0; i< s.length; ++i){
+        for(int i = 0; i< s.length(); ++i){
             if(s[i] == c){
                 pos.push_back(i);
             }                
         }
         
-        vector<int> ret(s.length, 0);
+        vector<int> ret(s.length(), 0);
         
         for(int i = 0; i<ret.size(); ++i){
             if(s[i] != c){
