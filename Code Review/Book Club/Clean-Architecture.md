@@ -28,7 +28,7 @@ Period: 2021 2 18 ~ 5 6 (12 weeks)
   * Ask participants to draw underline of the contents that you want to share with others  
   * Start
   * Stop 
-  * Keen on time management, you **MUST** keep the time  * 
+  * Keen on time management, you **MUST** keep the time  
 * Lead the time of sharing 
   * ask people how many pages they read and do the sharing based on the person with least read page
   * go through the page, ask people to share if they have underlined in that page
