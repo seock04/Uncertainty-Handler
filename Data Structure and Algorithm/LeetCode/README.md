@@ -10,5 +10,5 @@
 * [Shortest path in binary matrix](./Shortest%20path%20in%20binary%20matrix.cpp)
 * [Subsets](./Subsets.cpp)
 * [The K Weakest Rows in a Matrix](./The%20K%20Weakest%20Rows%20in%20a%20Matrix.cpp)
-* [Divisor Game]()
-* [Minimum Remove to Make Valid Parentheses]()
+* [Divisor Game](./Divisor%20Game.cpp)
+* [Minimum Remove to Make Valid Parentheses](./Minimum%20Remove%20to%20Make%20Valid%20Parentheses.cpp)
