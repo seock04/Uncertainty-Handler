@@ -11,4 +11,6 @@
 * [Subsets](./Subsets.cpp)
 * [The K Weakest Rows in a Matrix](./The%20K%20Weakest%20Rows%20in%20a%20Matrix.cpp)
 * [Divisor Game](./Divisor%20Game.cpp)
+  * dp problem
 * [Minimum Remove to Make Valid Parentheses](./Minimum%20Remove%20to%20Make%20Valid%20Parentheses.cpp)
+  * string manipulation with parentheses 
