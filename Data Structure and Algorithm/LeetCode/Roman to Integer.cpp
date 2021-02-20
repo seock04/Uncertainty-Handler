@@ -39,3 +39,43 @@ public:
         return result;
     }
 };
+
+
+//////////////////below are the simpler solution that use one idea ////////////
+//////////// if cur value is smaller than prev, then subtract the value and if the cur value is bigger than prev, then add the value
+class Solution {
+public:
+    
+    int romanToInt(string s) {
+        
+        int len = s.size();
+        
+        unordered_map<char, int> m;
+        
+        m['I'] = 1;
+        m['V'] = 5;
+        m['X'] = 10;
+        m['L'] = 50;
+        m['C'] = 100;
+        m['D'] = 500;
+        m['M'] = 1000;
+        
+        
+        int result = 0;
+        int prev = -1;
+        int cur;
+        
+        for( int i = len-1; i >= 0; --i){
+            cur = m[s[i]];
+            if(cur < prev){
+                result -= cur;
+            }
+            else{
+                result += cur;
+            }
+            prev = cur;
+        }
+        
+        return result;
+    }
+};
