@@ -16,3 +16,5 @@
   * string manipulation with parentheses 
 * [Roman to Integer](./Roman%20to%20Integer.cpp)
 * [3Sum Closest](./3Sum%20Closest.cpp)
+* [Broken Calculator](./Broken%20Calculator.cpp)
+  * think differently!, instead of handling X, handle Y for the easier calculation
