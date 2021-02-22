@@ -8,6 +8,7 @@
 * [Minimum Falling Path Sum](./Minimum%20Falling%20Path%20Sum.cpp)
 * [Shortest distance to character](./Shortest%20distance%20to%20character.cpp)
 * [Shortest path in binary matrix](./Shortest%20path%20in%20binary%20matrix.cpp)
+  * use BFS for shortest path
 * [Subsets](./Subsets.cpp)
 * [The K Weakest Rows in a Matrix](./The%20K%20Weakest%20Rows%20in%20a%20Matrix.cpp)
 * [Divisor Game](./Divisor%20Game.cpp)
