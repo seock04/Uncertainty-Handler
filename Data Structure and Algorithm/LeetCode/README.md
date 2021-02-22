@@ -20,3 +20,5 @@
   * think differently!, instead of handling X, handle Y for the easier calculation
 * [Guess Number higher or lower](./Guess%20Number%20Higer%20or%20Lower%20ii.cpp)
   * pick the min value of max in ranges  
+* [Sum Root to Leaf Numbers](./Sum%20Root%20to%20Leaf%20numbers.cpp)
+  * simple binary tree travel
