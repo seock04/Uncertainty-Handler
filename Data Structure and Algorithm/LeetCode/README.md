@@ -18,3 +18,5 @@
 * [3Sum Closest](./3Sum%20Closest.cpp)
 * [Broken Calculator](./Broken%20Calculator.cpp)
   * think differently!, instead of handling X, handle Y for the easier calculation
+* [Guess Number higher or lower](./Guess%20Number%20Higer%20or%20Lower%20ii.cpp)
+  * pick the min value of max in ranges  
