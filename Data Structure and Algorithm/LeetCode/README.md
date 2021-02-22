@@ -23,3 +23,6 @@
   * pick the min value of max in ranges  
 * [Sum Root to Leaf Numbers](./Sum%20Root%20to%20Leaf%20numbers.cpp)
   * simple binary tree travel
+* [Longest Word in Dictionary through Deleting](./Longest%20Word%20in%20Dictionary%20through%20Deleting.cpp)
+  * string manipulation
+
