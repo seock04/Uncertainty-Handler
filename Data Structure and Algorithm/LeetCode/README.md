@@ -27,3 +27,6 @@
   * string manipulation
 * [Search 2D matrix ii](.//Search%20a%202D%20Matrix%20II.cpp)
   * very good way to find value in sorted matrix
+* [Score of Parentheses](./Score%20of%20Parentheses.cpp)
+  * this tell me how I can calculate the operation with parentheses by using stack, must remember
+
