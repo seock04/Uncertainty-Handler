@@ -33,8 +33,9 @@
   * DP - with prev, prev to prev variable 
 * [21.0 Unique Binary Search Trees](./Unique%20Binary%20Search%20Trees.cpp)
   * DP - sum the all possibilities all num from 1 to n, and for each root, you should multiply all the possibility of left and right
-
 * [22.1 House Robber](./House%20Robber.cpp)
+* [23.0 Perfect Squares](./Perfect%20Square.cpp)
+  * need more understanding
 
 
 
