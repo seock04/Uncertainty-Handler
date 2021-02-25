@@ -29,4 +29,6 @@
   * very good way to find value in sorted matrix
 * [Score of Parentheses](./Score%20of%20Parentheses.cpp)
   * this tell me how I can calculate the operation with parentheses by using stack, must remember
+* [Decode Ways](./Decode%20Ways.cpp)
+
 
