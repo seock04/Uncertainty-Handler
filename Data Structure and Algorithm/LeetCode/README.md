@@ -31,6 +31,11 @@
   * this tell me how I can calculate the operation with parentheses by using stack, must remember
 * [20.0 Decode Ways](./Decode%20Ways.cpp)
   * DP - with prev, prev to prev variable 
-* [Unique Binary Search Trees](./Unique%20Binary%20Search%20Trees.cpp)
+* [21.0 Unique Binary Search Trees](./Unique%20Binary%20Search%20Trees.cpp)
   * DP - sum the all possibilities all num from 1 to n, and for each root, you should multiply all the possibility of left and right
+
+* [22.1 House Robber](./House%20Robber.cpp)
+
+
+
 
