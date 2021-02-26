@@ -37,7 +37,7 @@
 * [23.0 Perfect Squares](./Perfect%20Square.cpp)
   * need more understanding
 * [24.0 Shortest Unsorted Continuous Subarray](./Shortest%20Unsorted%20Continuous%20Subarray.cpp)
-* [Validate Stack Sequence](./Validate%20Stack%20Sequences.cpp)
+* [25.0 Validate Stack Sequence](./Validate%20Stack%20Sequences.cpp)
   * good example of using stack
 
 
