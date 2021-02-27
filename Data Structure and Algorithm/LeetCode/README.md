@@ -39,7 +39,8 @@
 * [24.0 Shortest Unsorted Continuous Subarray](./Shortest%20Unsorted%20Continuous%20Subarray.cpp)
 * [25.0 Validate Stack Sequence](./Validate%20Stack%20Sequences.cpp)
   * good example of using stack
-
+* [26.0 Divide two integer](./Divide%20two%20integer.cpp)
+  * bit manipulation is difficult
 
 
 
