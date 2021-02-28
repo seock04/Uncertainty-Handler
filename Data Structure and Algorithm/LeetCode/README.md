@@ -41,6 +41,9 @@
   * good example of using stack
 * [26.0 Divide two integer](./Divide%20two%20integer.cpp)
   * bit manipulation is difficult
+* [27.0 Maximum Frequency Stack](./Maximum%20Frequency%20Stack.cpp)
+  * using 2 unordered_map for frequency and group of same numbers for the same frequency management
+
 
 
 
