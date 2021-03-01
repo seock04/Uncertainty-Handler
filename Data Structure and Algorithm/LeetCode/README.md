@@ -1,7 +1,7 @@
 # This is a list of leet code problems that I solved to practice algorithm
 
 ## 2021 March
-* [1.1 Distributes Candy](./Distributes%20Candy)
+* [1.1 Distributes Candy](./Distributes%20Candy.cpp)
 
 ## 2021 Feb
 * [1.0 Container with Most Water Code](./Container%20With%20Most%20Water.cpp)
