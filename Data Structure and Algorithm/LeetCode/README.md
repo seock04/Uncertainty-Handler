@@ -3,6 +3,8 @@
 ## 2021 March
 * [1.1 Distributes Candy](./Distributes%20Candy.cpp)
 * [2.2 Is Subsequence](./Is%20Subsequence.cpp)
+* [3.2 Palindrome Partitioning](./Palindrome%20Partitioning.cpp)
+
 
 ## 2021 Feb
 * [1.0 Container with Most Water Code](./Container%20With%20Most%20Water.cpp)
