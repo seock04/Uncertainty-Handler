@@ -4,7 +4,8 @@
 * [1.1 Distributes Candy](./Distributes%20Candy.cpp)
 * [2.2 Is Subsequence](./Is%20Subsequence.cpp)
 * [3.2 Palindrome Partitioning](./Palindrome%20Partitioning.cpp)
-
+* [4.4 Missing Number](./Missing%20Number.cpp)
+  * good to learn, 0~n sum and xor logic
 
 ## 2021 Feb
 * [1.0 Container with Most Water Code](./Container%20With%20Most%20Water.cpp)
