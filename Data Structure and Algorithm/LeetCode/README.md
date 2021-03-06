@@ -6,6 +6,8 @@
 * [3.0 Palindrome Partitioning](./Palindrome%20Partitioning.cpp)
 * [4.3 Missing Number](./Missing%20Number.cpp)
   * good to learn, 0~n sum and xor logic
+* [5.4 Intersection of Two Linked Lists](./Intersection%20of%20Two%20Linked%20Lists.cpp)
+
 
 ## 2021 Feb
 * [1.0 Container with Most Water Code](./Container%20With%20Most%20Water.cpp)
