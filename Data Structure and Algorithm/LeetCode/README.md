@@ -8,7 +8,7 @@
   * good to learn, 0~n sum and xor logic
 * [5.4 Intersection of Two Linked Lists](./Intersection%20of%20Two%20Linked%20Lists.cpp)
   * linked list, stack, hash map
-* [Average of Levels in Binary Tree](./Average%20of%20Levels%20in%20Binary%20Tree.cpp)
+* [6.4 Average of Levels in Binary Tree](./Average%20of%20Levels%20in%20Binary%20Tree.cpp)
   * BFS, Tree
 
 ## 2021 Feb
