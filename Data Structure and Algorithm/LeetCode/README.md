@@ -12,7 +12,8 @@
   * BFS, Tree
 * [7.0 Short Encoding of Words](./Short%20Encoding%20of%20Words.cpp)
   * string hash map
-
+* [8.0 Generate parentheses](./Generate%20parentheses.cpp)
+  * recursion 
 ## 2021 Feb
 * [1.0 Container with Most Water Code](./Container%20With%20Most%20Water.cpp)
 * [2.0 Copy List with Random Pointer](./Copy%20List%20with%20Random%20Pointer.cpp)
