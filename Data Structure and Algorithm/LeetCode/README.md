@@ -14,6 +14,10 @@
   * string hash map
 * [8.0 Generate parentheses](./Generate%20parentheses.cpp)
   * recursion 
+* [9.5 Design HashMap](./Design%HashMap.cpp)
+* [10.6 Remove Palindromic Subsequence](./Remove%20Palindromic%20Subsequences.cpp)
+  * string
+
 ## 2021 Feb
 * [1.0 Container with Most Water Code](./Container%20With%20Most%20Water.cpp)
 * [2.0 Copy List with Random Pointer](./Copy%20List%20with%20Random%20Pointer.cpp)
