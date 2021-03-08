@@ -14,7 +14,7 @@
   * string hash map
 * [8.0 Generate parentheses](./Generate%20parentheses.cpp)
   * recursion 
-* [9.5 Design HashMap](./Design%HashMap.cpp)
+* [9.5 Design HashMap](./Design%20HashMap.cpp)
 * [10.6 Remove Palindromic Subsequence](./Remove%20Palindromic%20Subsequences.cpp)
   * string
 
