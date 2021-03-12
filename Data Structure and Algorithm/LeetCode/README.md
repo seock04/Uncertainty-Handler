@@ -21,7 +21,8 @@
   * BFS - level 
 * [12.0 Check if a String contains all binary codes](./Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K.cpp)
   * set, substr 
-
+* [13.0 Coin Change](./Coin%20Change.cpp)
+  * dp bottom-up
 
 ## 2021 Feb
 * [1.0 Container with Most Water Code](./Container%20With%20Most%20Water.cpp)
