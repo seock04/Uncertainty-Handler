@@ -19,6 +19,8 @@
   * string
 * [11.7 Add One Row to Tree](./Add%20One%20Row%20to%20Tree.cpp)
   * BFS - level 
+* [12.0 Check if a String contains all binary codes](./Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K.cpp)
+  * set, substr 
 
 
 ## 2021 Feb
