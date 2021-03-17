@@ -20,7 +20,7 @@ unsigned int heap_size;
 
 int id_to_pos[MAX_HEAP];
 
-ll strToNum(char name[]) 
+ll strToNum(char name[])
 {
 	register int i = 0;
 
@@ -45,7 +45,7 @@ void mystrcpy(char src[], char dest[])
 		dest[i] = src[i];
 		i++;
 	}
-	src[i] = 0;
+	dest[i] = 0;
 }
 
 ELEMENT* newItem(int id, char name[])
@@ -111,14 +111,14 @@ void downdate(int pos)
 			child = child + 1;
 		}
 		if (needSwap(mheap[parent], mheap[child]) == false) break;
-		
+
 		tmp = mheap[child];
 		mheap[child] = mheap[parent];
 		mheap[parent] = tmp;
 
 		id_to_pos[mheap[child]->id] = child;
 		id_to_pos[mheap[parent]->id] = parent;
-		
+
 		parent = child;
 	}
 }
@@ -128,6 +128,7 @@ void push(int idx, char name[])
 	ELEMENT* n = newItem(idx, name);
 	int pos = ++heap_size;
 	mheap[pos] = n;
+	id_to_pos[idx] = pos;
 
 	update(pos);
 }
