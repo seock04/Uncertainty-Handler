@@ -27,9 +27,9 @@
   * map, reverse iterator
 * [15.8 Swapping Nodes in a Linked List](./Swapping%20Nodes%20in%20a%20Linked%20List.cpp)
   * Linked List
-* [Best Time to Buy and Sell with Transaction Fee](./Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.cpp)
+* [16.0 Best Time to Buy and Sell with Transaction Fee](./Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.cpp)
   * DP, two variable
-* [Vowel Spellchecker](./Vowel%20Spellchecker.cpp)
+* [17.0 Vowel Spellchecker](./Vowel%20Spellchecker.cpp)
   * string, hash
 
 
