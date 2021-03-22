@@ -29,6 +29,9 @@
   * Linked List
 * [Best Time to Buy and Sell with Transaction Fee](./Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.cpp)
   * DP, two variable
+* [Vowel Spellchecker](./Vowel%20Spellchecker.cpp)
+  * string, hash
+
 
 ## 2021 Feb
 * [1.0 Container with Most Water Code](./Container%20With%20Most%20Water.cpp)
