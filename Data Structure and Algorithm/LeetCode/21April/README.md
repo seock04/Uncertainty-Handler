@@ -1,3 +1,3 @@
-# This is a list of leet code problems that I solved to practice algorithm
+# 2021 April
 
 * [Multiply Strings](.)
