@@ -6,8 +6,8 @@
 * 2020 December - [42% submission rate](https://leetcode.com/explore/featured/card/december-leetcoding-challenge/)
 * 2021 January - [58% - submission rate](https://leetcode.com/explore/featured/card/january-leetcoding-challenge-2021/)
 * 2021 February - [88% - submission rate](https://leetcode.com/explore/featured/card/february-leetcoding-challenge-2021/) 
-* 2021 March - [% submission rate](https://leetcode.com/explore/featured/card/march-leetcoding-challenge-2021/)
-* 2021 April - [Total  problem solved](https://github.com/seock04/Uncertainty-Handler/tree/master/Data%20Structure%20and%20Algorithm/LeetCode/21April)
+* 2021 March - [Total 15 problems solved](https://leetcode.com/explore/featured/card/march-leetcoding-challenge-2021/)
+* 2021 April - [Total  problems solved](https://github.com/seock04/Uncertainty-Handler/tree/master/Data%20Structure%20and%20Algorithm/LeetCode/21April)
 
 ## Algorithm Training Basic
 * 문제해결을 위한 창의적 알고리즘(고급) 책 스터디 완료 하기 ( ~8.15.2020)
