@@ -1,10 +1,10 @@
 inflation
 
 Condition
-* 50 - * * items
+* 50 - items
 * 3000 * max duration for each item
 * 1000 api max call
-* price length - 99
+* price length 1 - 99
 
 Functions
 * init(int N, char name[][], char prices[][], int duration[])
