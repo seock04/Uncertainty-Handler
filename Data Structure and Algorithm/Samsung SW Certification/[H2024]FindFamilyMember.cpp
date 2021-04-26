@@ -47,7 +47,7 @@ int travelChild(int index, int cur, int distance, bool visited[], int targetDist
 		if (nodes[cur].p[i] == -1 or visited[nodes[cur].p[i]] == true) continue;
 		visited[nodes[cur].p[i]] = true;
 		Que[++Rear] = nodes[cur].p[i];
-		dist[index][cur] = distance;
+		dist[index][nodes[cur].p[i]] = distance;
 		if (distance == targetDistance) count++;
 	}
 
@@ -56,7 +56,7 @@ int travelChild(int index, int cur, int distance, bool visited[], int targetDist
 
 		visited[nodes[cur].child[i]] = true;
 		Que[++Rear] = nodes[cur].child[i];
-		dist[index][cur] = distance;
+		dist[index][nodes[cur].child[i]] = distance;
 		if (distance == targetDistance) count++;
 	}
 
@@ -74,14 +74,17 @@ int bfs(int index, int targetDistance)
 
 	int count = 0;
 	while (Front != Rear) {
-		int cur = Que[++Front];
 		++d;
-		count += travelChild(index, cur, d, visited, targetDistance);
+		int size = Rear - Front;
+		for (int i = 0; i < size; ++i) {
+			int cur = Que[++Front];
+			count += travelChild(index, cur, d, visited, targetDistance);
 
-		if (nodes[cur].spouse != -1) {
-			int sp_index = nodes[cur].spouse;
-			count += travelChild(index, sp_index, d, visited, targetDistance);
-		}
+			if (nodes[cur].spouse != -1) {
+				int sp_index = nodes[cur].spouse;
+				count += travelChild(index, sp_index, d, visited, targetDistance);
+			}
+		}		
 	}
 
 	return count;
