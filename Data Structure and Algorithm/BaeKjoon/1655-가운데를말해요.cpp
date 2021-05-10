@@ -110,13 +110,14 @@ int main()
 				minPop(&moved);
 			}
 		}
+		/*
 		else if (minSize <= maxSize) {
 			minPush(in);
 		}
 		else if (minSize > maxSize) {
 			maxPush(in);
 		}
-
+		*/
 		if (minSize > 0 && maxSize > 0 && minHeap[0] < maxHeap[0]) {
 			int t;
 			int minRoot = minHeap[0];
