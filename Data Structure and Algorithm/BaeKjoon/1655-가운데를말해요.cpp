@@ -1,9 +1,7 @@
-//타임아웃 왜!!!!
-
 #include<iostream>
 using namespace std;
 
-#define MAX_HEAP 10000
+#define MAX_HEAP 100001
 int minHeap[MAX_HEAP];
 int minSize = 0;
 
@@ -89,35 +87,20 @@ void maxPop(int* val)
 
 int main()
 {
+	ios::sync_with_stdio(false);
+	cin.tie(0);
 	int N, in;
 
 	cin >> N;
 	for (int i = 0; i < N; ++i) {
 		cin >> in;
-		if (maxSize == 0 || maxHeap[0] <= in) {
-			maxPush(in);
-			int moved;
-			if (maxSize > minSize+1) {
-				minPush(maxHeap[0]);
-				maxPop(&moved);
-			}
-		}
-		else if (minSize == 0 || minHeap[0] >= in) {
-			minPush(in);
-			int moved;
-			if (minSize > maxSize) {
-				maxPush(minHeap[0]);
-				minPop(&moved);
-			}
-		}
-		/*
-		else if (minSize <= maxSize) {
-			minPush(in);
-		}
-		else if (minSize > maxSize) {
+		if (i % 2 == 0) {
 			maxPush(in);
 		}
-		*/
+		else {
+			minPush(in);
+		}
+
 		if (minSize > 0 && maxSize > 0 && minHeap[0] < maxHeap[0]) {
 			int t;
 			int minRoot = minHeap[0];
@@ -133,4 +116,5 @@ int main()
 		cout << maxHeap[0] << '\n';
 	}
 
+	return 0;
 }
