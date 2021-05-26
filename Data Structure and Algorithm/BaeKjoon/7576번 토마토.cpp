@@ -1,4 +1,3 @@
-// 아직 해결 코드 
 #include<iostream>
 
 using namespace std;
@@ -24,14 +23,14 @@ int Front, Rear;
 
 int main()
 {
-	cin >> M >> N;
+	cin >> N >> M;
 	for (int i = 0; i < M; ++i) {
 		for (int j = 0; j < N; ++j) {
 			cin >> map[i][j];
 		}
 	}
 
-	int count = 0;
+	int count = -1;
 	Front = Rear = -1;
 	int res = 0;
 	for (int i = 0; i < M; ++i) {
@@ -40,14 +39,18 @@ int main()
 				Que[++Rear] = { i, j};
 			}
 		}
-	}	
-
+	}
+	if (Front == Rear) {
+		cout << count;
+		return 0;
+	}
+	
 	while (Front != Rear) {
-		++count;
-		int msize = Rear - Front;
-		pos p = Que[++Front];
 
+		int msize = Rear - Front;
+		++count;
 		for (int i = 0; i < msize; ++i) {
+			pos p = Que[++Front];
 			for (int next = 0; next < 4; ++next) {
 				int rr = p.r + dr[next];
 				int cc = p.c + dc[next];
@@ -57,10 +60,21 @@ int main()
 				Que[++Rear] = { rr, cc };
 			}
 		}
-
 	}
 
-	cout << count;
+	int remaining_zero_count = 0;
+	for (int i = 0; i < M; ++i) {
+		for (int j = 0; j < N; ++j) {
+			if (map[i][j] == 0) {
+				remaining_zero_count++;
+			}
+		}
+	}
+
+	if (remaining_zero_count) 
+		cout << -1;
+	else
+		cout << count;
 
 	return 0;
 }
