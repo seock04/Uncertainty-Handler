@@ -1,5 +1,6 @@
 // 아직 해결 코드 
 #include<iostream>
+
 using namespace std;
 
 #define MAX 1001
@@ -21,17 +22,30 @@ int dc[4] = { 0, 0, -1, 1 };
 pos Que[MAX * MAX];
 int Front, Rear;
 
-int bfs(int row, int col)
+int main()
 {
+	cin >> M >> N;
+	for (int i = 0; i < M; ++i) {
+		for (int j = 0; j < N; ++j) {
+			cin >> map[i][j];
+		}
+	}
+
 	int count = 0;
 	Front = Rear = -1;
-	Que[++Rear] = { row, col };
-	
+	int res = 0;
+	for (int i = 0; i < M; ++i) {
+		for (int j = 0; j < N; ++j) {
+			if (map[i][j] == 1) {
+				Que[++Rear] = { i, j};
+			}
+		}
+	}	
+
 	while (Front != Rear) {
+		++count;
 		int msize = Rear - Front;
 		pos p = Que[++Front];
-
-		++count;
 
 		for (int i = 0; i < msize; ++i) {
 			for (int next = 0; next < 4; ++next) {
@@ -43,29 +57,10 @@ int bfs(int row, int col)
 				Que[++Rear] = { rr, cc };
 			}
 		}
-	
-	}
-	return count;
-}
 
-
-int main()
-{
-	cin >> M >> N;
-	for (int i = 0; i < M; ++i) {
-		for (int j = 0; j < N; ++j) {
-			cin >> map[i][j];
-		}
 	}
 
-	int res = 0;
-	for (int i = 0; i < M; ++i) {
-		for (int j = 0; j < N; ++j) {
-			if (map[i][j] == 1) {
-				res = mMAX(res, bfs(i, j));
-			}
-		}
-	}
-	cout << res;
-	return res;
+	cout << count;
+
+	return 0;
 }
