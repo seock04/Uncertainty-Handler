@@ -51,6 +51,26 @@ void quickSort(int first, int last)
 	}
 }
 
+void quickSort(vector<int>& nums, int left, int right)
+{
+    if (left >= right) return;
+
+    int l = left;
+    int r = right;
+    int pivot = left;
+    while (l < r) {
+        while (nums[l] <= nums[pivot] and l < right) l++;
+        while (nums[r] > nums[pivot]) r--;
+        if (l < r) {
+            swap(nums[l], nums[r]);
+        }
+    }
+    swap(nums[pivot], nums[r]);
+
+    quickSort(nums, left, r - 1);
+    quickSort(nums, r + 1, right);
+}
+    
 void printResult(void)
 {
 	int i;
