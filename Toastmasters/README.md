@@ -14,7 +14,13 @@
 ### Club President - Gumi Smart-City Toastmasters Club From Jul. 01, 2014 to Dec. 31, 2014
 
 ## My Pathway Journey
-* [Project - Effective Coaching](https://github.com/seock04/Uncertainty-Handler/tree/master/Toastmasters/Pathway)
+* [Project - Visionary Communication](https://github.com/seock04/Uncertainty-Handler/tree/master/Toastmasters/Pathway/Visionary%20Communication)
+  * Level 1
+    * [Ice Breaker]()
+    * [Evaluation and Feedback]()
+    * [Researching and Presenting]()
+    
+* [Project - Effective Coaching](https://github.com/seock04/Uncertainty-Handler/tree/master/Toastmasters/Pathway/Effective%20Coaching)
   * Completion of the Path
     * [Path Completion](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Pathway/Effective%20Coaching/Level5/Path%20Completion.md)
   * Level 5:
