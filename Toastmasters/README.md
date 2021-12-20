@@ -16,7 +16,7 @@
 ## My Pathway Journey
 * [Project - Visionary Communication](https://github.com/seock04/Uncertainty-Handler/tree/master/Toastmasters/Pathway/Visionary%20Communication)
   * Level 1
-    * [Ice Breaker]()
+    * [Ice Breaker](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Pathway/Visionary%20Communication/Level%201/Ice%20Breaker.md)
     * [Evaluation and Feedback]()
     * [Researching and Presenting]()
     
