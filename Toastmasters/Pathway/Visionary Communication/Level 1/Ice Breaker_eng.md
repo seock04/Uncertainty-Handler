@@ -21,10 +21,9 @@ And I remember that one of them was recommended by Dev, one of my best friends w
 
 "The One Thing"
 
-to make long story short, this boot was about what to do or how to act for the successfully achieve what you want in your life.
+to make long story short, this boot was about what to do or how to act for to achieve something important in your life
 
-I said, if there is something that can be the foundation of many others that you need to do in the future or 
-if it's the obstacle that must be resolved as condition to move toward the goal you wanted, do it first. Something like this.
+It said, if there is something that can be the foundation of others that you need to do in the future or if it's the obstacle that must be resolved as condition to move toward the goal you wanted, do it first. Something like this.
 
 I knew what it is.. after reading that book, because at that time I finished the course of Best Reviewer certificate as SW developer which took about 6 month to finish
 but yet couldn't get it officially because I didn't have "profesional level certificate"
