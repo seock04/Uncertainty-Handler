@@ -65,7 +65,7 @@ During that time, I reminded my self with the saying what my mom use to say, "yo
 so don't give up and don't think about others but focus on what you need to do, it's ok, you will do just fine". 
 
 
-time passed, and the 2022, November 20th, I finally pass the test.
+time passed, and the 2021, November 20th, I finally pass the test.
 
 I didn't do it alone, there was a mentor who didn't give up and encouraged me until the end, the part leader who gave me a chance to study, and my dear family 
 who endured this long long time with me at all times. 
