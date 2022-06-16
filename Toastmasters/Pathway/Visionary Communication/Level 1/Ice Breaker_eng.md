@@ -3,21 +3,19 @@ One Step forward
 The year of 2021, November 20th, I pass the Samsung SW certification Propessional level. Maybe it's easy task for someone, maybe it's something that need to go through
 if they are SW engineers, but I personally wanted to talk about this unique experience in my 3rd Ice breaker because I learned not only about the knowledge or know how of algorithm but the emotion, thought or feeling that I had to go through when I felt overwhelmed by something I can not control was so specialy that It can explains one of my thought process  deep, deep inside of me.
 
-First, it was 2016, June 18th, I pass the advanced level. Although I didn't think to work as SW enginner this long like 15 ~ 16 years when I first enter this company but I was so much relieved because I knew that I will not be kicked out from the SW development team at that time. It's funny isn't it?
+First, it was 2016, June 18th, I pass the advanced level. Although, I didn't think to work as SW enginner this long like 15 ~ 16 years when I first enter this company, but I was so much relieved because I knew that I will not be kicked out from the SW development team. It's funny isn't it?
 
-But, as many of the SW developer know, it was just beginning and my struggling for this algorithm test continued 5 more years. I was distracted from it but doing more about the toastmasters or trying new certification exam which was very different from what I do in the company.
+But, as many of the SW developer know, it was just beginning and my struggling for this algorithm test continued 5 more years. To be honest with you, I didn't like it, so I did more about the toastmasters or trying new certification exam which was very different from what I do in the company.
 
-To tell you how much I was mentally not stable at that time, I was discussing about what to do for my life, in the meeting with my lab leader when he first join this 
-company. I asked him whether I need to study something this company want me to do or something I think I need to do for the future which is different from what I do 
+I think I was not mentally stable neither, I was discussing about what to do for my life, in the meeting with my lab leader when he first join this 
+company. I asked him whether I had to study something this company want me to do or something I think I need to do for the future which is different from what I do 
 at work. 
 
-His answer was funny and very simple, do both!, you know, I thought just in my mind that come on man, I do if I could do it.. useless.. something like that
+His answer was very simple, do both!, I thought just that answer was useless because it didn't seem like realistc to me.
 
-but come to think of it now, maybe he was right. 
+However luckly I met 2 books during this time.
 
-During this time, I was so much into 2 books 
-
-One of the book was "The One Thing". To make long story short, this boot was about what to do or how to act to achieve your long term goal in your life
+One of the book was "The One Thing". To make long story short, this book was about what to do or how to act to achieve your long term goal in your life
 
 It said, do it first, if there is something that can be the foundation of others or if it's the obstacle that must be resolved as condition to move toward the goal you wanted. Something like this.
 
