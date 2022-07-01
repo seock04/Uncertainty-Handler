@@ -5,6 +5,8 @@
 - https://news.samsung.com/global/samsung-gaming-hub-an-all-new-game-streaming-discovery-platform-now-available-on-2022-smart-tvs-and-smart-monitor-series
 
 //////////
+<PR>
+ 
  https://www.wired.com/story/future-of-xbox/
  https://www.pcmag.com/news/no-console-needed-xboxs-cloud-gaming-coming-to-new-samsung-tvs
  https://www.theverge.com/2022/6/9/23159460/microsoft-xbox-tv-app-samsung-2022-tv-xbox-cloud-gaming-streaming
