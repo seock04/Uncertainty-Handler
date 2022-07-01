@@ -1,5 +1,10 @@
 
+2022-07-01
+- https://news.samsung.com/kr/lets-play-with-samsung-%E2%91%A0-%EC%82%BC%EC%84%B1tv-%ED%95%98%EB%82%98%EB%A9%B4-ok-%EC%B4%88%EB%8C%80%ED%95%A9%EB%8B%88%EB%8B%A4-%EC%82%BC%EC%84%B1%EC%9D%98-%EC%83%88
+- https://news.samsung.com/global/lets-play-with-samsung-1-get-your-game-on-no-console-required-with-samsungs-all-in-one-gaming-hub-on-your-samsung-smart-tv
+- https://news.samsung.com/global/samsung-gaming-hub-an-all-new-game-streaming-discovery-platform-now-available-on-2022-smart-tvs-and-smart-monitor-series
 
+//////////
  https://www.wired.com/story/future-of-xbox/
  https://www.pcmag.com/news/no-console-needed-xboxs-cloud-gaming-coming-to-new-samsung-tvs
  https://www.theverge.com/2022/6/9/23159460/microsoft-xbox-tv-app-samsung-2022-tv-xbox-cloud-gaming-streaming
