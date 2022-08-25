@@ -46,9 +46,16 @@ I felt overwhelmed, exhausted, spent countless night without sleep.
 you see, something like ok it's done maybe :)
 
 
+What I want to tell you with this story is very simple, sometimes in your life, you need to through yourself into the unkown situation. And if you think you need to
+do it, then please try to be with optimism. maybe you can find some person who is optimistic or you, yourself try to see things on bright side.
 
+Because if you focus on the hard working or preoccupied with worries that might happen because of the situation, you can not move foward.
 
+and last take care of your mind first and if you can take good care of the person next you. Because at the end of the day, what's matter is human.
 
+Don't consume yourself 
+
+Thanks.
 
 
 
