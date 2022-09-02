@@ -15,25 +15,28 @@ when playing cloud game was the 2nd most imporatant thing, because it's very muc
 then what could be the top priority? any one can answer? yes, it's cloud game partner, if we just provide the cloud game which you don't even know who they are
 then mostly likely people will not use it.
 
+although there has been the case when we did game service on TV, this time was different because we had Xbox game pass, Stadia from google, Luna from Amazone etc. 
+I can say that the game providers had big name which could attract gamers.
+
 Ok, now it's about the situation
 
 For the first 6 month, not even single cloud game partner was confirmed although we have already started preceding developement.
-There were several up and down of contract with Xbox because of business deal during this time and until the 이원진 vice chairman visit the Microsoft to see
+There were several up and down of contract with Xbox because of business deal during this time and until the 이원진 vice chairman of MX visited the Microsoft to see
 Xbox CEO face to face, nothing was certain.
 
-So during this time, we only only develop the gaming hub but to make it working, we also made temporary partner app which exactly meet the gaming hub requirement.
+So during this time, we not only develop the gaming hub but to make it working, we also made temporary partner app which exactly meet the gaming hub requirement.
 it was like launching simple app and showing streaming game when it's launched but deeplink feature or server meta data integration kind of things was working properly.
 
 situation didn't get better but went worse because, after about 4 month of of app development, VD TV home UX and their strategy of using it has been completely changed
 that all we worked for 4 month needed to be discarded and we had to do the fresh start. For example at first it was independant app but later it become part home 
 TV home category later.
 
-If you have experiences you may know that how difficult it could be, to make new app even with same UI, if you have to use completely different framework.
+If you have experiences you may know that how difficult it could be, to make new app, even with same UI, if you have to use completely different framework.
 
-like through away the android app and make similar ui app on IOS. 
+like through away the android app and make similar ui app on IOS, especially if it's deeply integrated to the HW like TV. 
 
-We struggled because we didn't know how to use that new framework. But what can I do, after 
-struggling on several month, we could make it anyway. Then performance issues came which was caused from this new framework, not because of our code.
+We struggled because we didn't know how to use that new framework for a while. But after 
+struggling on several month, we could make it anyway. Then performance issues came out which was caused from not only because of the apps but from this new framework and the platform itself.
 
 I was frustrated, didn't know how to overcome the situation. Me and my SPM pay a visit the master (who is same as 상무님) Kim and having a vertical meeting to 
 improve the tizen platform performance.
