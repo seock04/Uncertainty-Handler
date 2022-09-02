@@ -9,14 +9,15 @@ If I briefly tell you about how gaming hub become gaming hub now.
 
 At first, Service PM wanted gaming hub very much like the console game device without the actual console box.
 
-So they wanted to allow user to be able to chat with friends with discord social app or to listen to the music while playing game on TV But of course, the latency
-when playing cloud game was the 2nd most imporatant thing, because it's very much basic that can attact people to this service.
+when it comes to the gaming experiences, there are a few very important factors, contents, latency(response performance) and the infra which we can say whether you can list to the music or chat with your friends while you are playing games.
 
-then what could be the top priority? any one can answer? yes, it's cloud game partner, if we just provide the cloud game which you don't even know who they are
+What I was focused on was the 3rd one, the infra but Gaming hub itself was focusing on all of these.
+
+what could be the top priority? any one can answer? yes, it's cloud game partner, if we just provide the cloud game which you don't even know who they are
 then mostly likely people will not use it.
 
 although there has been the case when we did game service on TV, this time was different because we had Xbox game pass, Stadia from google, Luna from Amazone etc. 
-I can say that the game providers had big name which could attract gamers.
+I can say that the game providers had big name which could surely attract gamers.
 
 Ok, now it's about the situation
 
