@@ -10,7 +10,7 @@ If I briefly tell you about how gaming hub become gaming hub now.
 At first, Service PM wanted gaming hub very much like the console game device without the actual console box.
 
 So they wanted to allow user to be able to chat with friends with discord social app or to listen to the music while playing game on TV But of course, the latency
-when playing cloud game was the 2nd priority because it's very much basic that can attact people to this service.
+when playing cloud game was the 2nd most imporatant thing, because it's very much basic that can attact people to this service.
 
 then what could be the top priority? any one can answer? yes, it's cloud game partner, if we just provide the cloud game which you don't even know who they are
 then mostly likely people will not use it.
