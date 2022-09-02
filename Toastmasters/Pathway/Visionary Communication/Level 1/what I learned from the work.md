@@ -44,8 +44,7 @@ improve the tizen platform performance.
 we had meeting almost every day.. engineers from kernel, system, application framework, uifw, home framework game home application, they discussed with 
 very detailed log.
 
-we did it for 2 month, but not so much improvement we could get. I was the host in that meeting like toastmaster and with master Kim in background, we updated
-more than 100 packages to improve the performance.
+we did it for 2 month, although we made big progress for the first boot performance, I was still worried until the end if it could be good enough to the user. I was the host in that meeting like toastmaster and with master Kim in background, we updated more than dozens of packages to improve the performance.
 
 3 preceding testing, 2 OTN process we went through in 1 and 6 months.
 
@@ -55,20 +54,20 @@ I felt overwhelmed, exhausted, spent countless night barely sleeping because of 
 
 after 2 more weeks of service launching, I could get some time to look inside me and around me.
 
-Why am I telling you about this? I think anyone in this company can fall into this kind of situation as long as they work in Samsung. So I think understanding the emotion you need to go through can help you to be more stable.
+Why am I telling you about this? because I want to do PR about myself? no.. :) I think anyone in this company can fall into this kind of situation as long as they work in Samsung. So I think understanding the emotion you need to go through can help you to be more stable.
 
-Do you know what's "the infinite game" means? this is one of the title of the book by author Simon Sinek who Love very much and I think I even delivered the speech
+Do you know what's "the infinite game" means? this is one of the title of the book by author Simon Sinek who I Love very much and I think I even delivered the speech
 about it before.
 
 Anyway, you have to understand the type of game you are in. What you are doing is just one of the project that has end, but in the end you are in the endless game of your life and you should maintain your strength until the end of your life.
 
-so 1st thing you have to understand is that make sure that you don't get exhausted, if you do you will burn out and it means you are risking your life game. So take care of your mental and soul first, and health.
+so 1st thing you have to understand is that make sure that you don't get exhausted completely, if you do, you will burn out and it means you are risking your life game. So I think taking care of your mind and soul, and health is very important thing.
 
 2nd, Sometimes in your life, you need to through yourself into the unkown situation. And if you think you need to do it, then please try to be with optimism. maybe you can find some person who is optimistic or you, yourself try to see things on bright side.
 
-Because if you focus on the hard working or preoccupied with worries that might happen because of the situation, you can not move foward.
+Because if you focus on the hard working and preoccupied with worries that might happen because of the situation, you can not move foward and you will be stuck in a situation which will break you down.
 
-and last, take care of your self first and if you can, take care of the person next you because at the end of the day, what matter the most is human.
+and last, take care of your self first and if you can, take care of the person next you because at the end of the day, what matter the most is the you and the people next you.
 
 
 Thanks.
