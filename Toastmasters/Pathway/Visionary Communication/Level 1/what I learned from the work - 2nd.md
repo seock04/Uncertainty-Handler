@@ -39,7 +39,7 @@ Do you remember the keywords I told you at the beginning? Let me tell you why th
 So you have to make sure that you don't get exhausted completely, if you do, you will burn out and it means you are risking your life game which is way more important to you personally. I think taking care of your mind, soul, and health to maintain your life game is key to this. 
 
 
-2nd, Sometimes in your life, you need to through yourself into the unkown situation. And if you think you need to do it, then please try it with optimism. maybe you can find some person who is optimistic or you, yourself try to see things on bright side, because if you focus on the hard working and preoccupied with worries that may/may not happen in the future because of the situation, you can not move foward but stuck in a situation which will break you down. 
+2nd, Sometimes in your life, you need to through yourself into the unkown situation. And if you think you need to do it, then please try it with optimism. maybe you can find some person who is optimistic or you, yourself try to see things on bright side, because if you focus on the hard working and preoccupied with worries that may/may not happen in the future, you can not move foward but stuck in a situation which will break you down. 
 
 Last but not least, take care of your self first and if you can, take care of the person next you because at the end of the day, what matter the most is the you and the people next you.
 
