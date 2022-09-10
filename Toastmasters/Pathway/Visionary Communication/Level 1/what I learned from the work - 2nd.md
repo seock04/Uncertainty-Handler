@@ -41,6 +41,6 @@ So you have to make sure that you don't get exhausted completely, if you do, you
 
 2nd, Sometimes in your life, you need to through yourself into the unkown situation. And if you think you need to do it, then please try it with optimism. maybe you can find some person who is optimistic or you, yourself try to see things on bright side, because if you focus on the hard working and preoccupied with worries that may/may not happen in the future, you can not move foward but stuck in a situation which will break you down. 
 
-Last but not least, take care of your self first and if you can, take care of the person next you because at the end of the day, what matter the most is the you and the people next you.
+Last but not least, take care of your self and if you can, take care of the person next you, because, person next you when you go through the hard time, probably be there for you in the future when you need help the most. 
 
 Thanks.
