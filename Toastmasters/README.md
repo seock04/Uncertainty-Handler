@@ -46,7 +46,7 @@
 
 <br> Leading Samsung One Toastmasters Club Education Plan
 * Presenter
-  * How to start Pathway - hoseock - 2022 Nov. 25 [Presentation doc](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Education%20Materials/ENG_Pathway%20Introduction.pptx)
+  * How to start Pathway - hoseock - 2022 Nov. 25: [Presentation doc](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Education%20Materials/ENG_Pathway%20Introduction.pptx)
   * Selecting Topic	- hoseock - 2019 Nov. 19
   * Get to the point - hoseock - 2020 Jan, 21st
 
