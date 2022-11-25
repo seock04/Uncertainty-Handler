@@ -4,13 +4,12 @@
 ### Resources
 * [Education Materials](https://github.com/seock04/Uncertainty-Handler/wiki/Education-Materials)
 * [Guide Videos & Document](https://github.com/seock04/Uncertainty-Handler/wiki/Toastmasters-Guide-Documents-&-Video)
-* [Toastmasters Online Meeting Guide](https://github.com/seock04/Uncertainty-Handler/wiki/Toastmasters-Online-Meetings)
 ### 2020-2021 Area Director of Area 34 Division D, District 93
 * [Club Status](https://github.com/seock04/Uncertainty-Handler/wiki/2020-2021-Area-Club-Status)
 * [Self Introduction intro](https://github.com/seock04/Uncertainty-Handler/wiki/beginning-of-self-introduction-as-area-director)
 * [2020 Area Speech Contest](https://github.com/seock04/Uncertainty-Handler/wiki/2020-Area-34-Speech-Contest)
-### Club President - Samsung One Toastmasters (SOTM) From Jan. 01, 2019 to Jun. 30, 2019
-### Club President - Gumi Smart-City Toastmasters Club From Jul. 01, 2014 to Dec. 31, 2014
+#### Club President - Samsung One Toastmasters (SOTM) From Jan. 01, 2019 to Jun. 30, 2019
+#### Club President - Gumi Smart-City Toastmasters Club From Jul. 01, 2014 to Dec. 31, 2014
 
 ## My Pathway Journey
 * [Project - Visionary Communication](https://github.com/seock04/Uncertainty-Handler/tree/master/Toastmasters/Pathway/Visionary%20Communication)
