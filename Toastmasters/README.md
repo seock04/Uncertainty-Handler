@@ -2,11 +2,9 @@
 
 ## My Leadership Journey
 ### 2020-2021 Area Director of Area 34 Division D, District 93
-* [Introduction of district executive committee](https://district93.org/about/district-executive-committee-2020-2021/)
 * [Club Status](https://github.com/seock04/Uncertainty-Handler/wiki/2020-2021-Area-Club-Status)
 * [Toastmasters Online Meeting Guide](https://github.com/seock04/Uncertainty-Handler/wiki/Toastmasters-Online-Meetings)
 * [Education Materials](https://github.com/seock04/Uncertainty-Handler/wiki/Education-Materials)
-* [Area Visit Summary](https://bit.ly/adclubvisit)
 * [Self Introduction intro](https://github.com/seock04/Uncertainty-Handler/wiki/beginning-of-self-introduction-as-area-director)
 * [Guide document](https://github.com/seock04/Uncertainty-Handler/wiki/Guide-Documents)
 * [2020 Area Speech Contest](https://github.com/seock04/Uncertainty-Handler/wiki/2020-Area-34-Speech-Contest)
