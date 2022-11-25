@@ -15,10 +15,15 @@
 
 ## My Pathway Journey
 * [Project - Visionary Communication](https://github.com/seock04/Uncertainty-Handler/tree/master/Toastmasters/Pathway/Visionary%20Communication)
+  * Level 2    
+    * [Introduction to Toastmasters Mentoring]()
+    * [Understanding Your Communication Style]()
+    * [Understanding Your Leadership Style]()
   * Level 1
     * [Ice Breaker](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Pathway/Visionary%20Communication/Level%201/Ice%20Breaker.md)
-    * [Evaluation and Feedback]()
-    * [Researching and Presenting]()
+    * [Evaluation and Feedback](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Pathway/Visionary%20Communication/Level%201/what%20I%20learned%20from%20the%20work.md)
+    * [Researching and Presenting](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Pathway/Visionary%20Communication/Level%201/Coach%20Showering.md)
+    
     
 * [Project - Effective Coaching](https://github.com/seock04/Uncertainty-Handler/tree/master/Toastmasters/Pathway/Effective%20Coaching)
   * Completion of the Path
