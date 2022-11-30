@@ -1,5 +1,13 @@
 ### KAC 인증 준비반 119기
-* 교육담당: 이지현 전문코치(010-5306-2125, hanragi@daum.net)
+* 교육담당 
+  * 이지현 Class Coach(KPC01535) 010-5306-2125, hanragi@daum.net
+  * 김민정 Class Coach(KPC01988) 010-3567-1994, beeya_i@naver.com
+* 교육생
+  * 이유경 love63yk@naver.com, 010-4134-1603
+  * 이유진 yj.lee15@cj.net, 010-2415-1401
+  * 홍민정 hongtea1122@naver.com, 010-6364-7696
+  * 김나라 
+
 * 교육진행 장소 및 형태
   * 1~5세션: Zoom 
   * 6~7세션: Tele Class (수신자 요금 발생)
