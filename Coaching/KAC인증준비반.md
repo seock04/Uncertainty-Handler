@@ -6,7 +6,7 @@
   * 이유경 love63yk@naver.com, 010-4134-1603
   * 이유진 yj.lee15@cj.net, 010-2415-1401
   * 홍민정 hongtea1122@naver.com, 010-6364-7696
-  * 김나라 
+  * 김나라 nara.Kim@shinhwaworld.com, 010-9872-2892
 
 * 교육진행 장소 및 형태
   * 1~5세션: Zoom 
