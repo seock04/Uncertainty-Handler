@@ -1,34 +1,21 @@
 ## Coaching Journey
 ### KAC (Korea Associate Coach Certificate)
-* KAC 인증 준비반 119기
+* [KAC 인증 준비반 119기](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/KAC%EC%9D%B8%EC%A6%9D%EC%A4%80%EB%B9%84%EB%B0%98.md)
     * 교육담당: 이지현 전문코치(010-5306-2125, hanragi@daum.net)
     * 교육진행 장소 및 형태
-      * 1세션: Zoom 
-      * 2~7세션: Tele Class (수신자 요금 발생)
+      * 1~5세션: Zoom 
+      * 6~7세션: Tele Class
     * 전체 교육 일정
-      * 1차: [2022] 11/30(수) 19:00-21:10 (Zoom)
-      * 2차: 12/14(화) 20:00-21:30 (Zoom)
-      * 3차: 12/28(화) 20:00-21:30 (Zoom)
-      * 4차: 01/11(화) 20:00-21:30 (Zoom)
-      * 5차: 01/25(화) 20:00-21:30 (Zoom)
-      * 6차: 02/08(화) 20:00-21:30 (Tele Class)
-      * 7차: 02/22(화) 20:00-21:30 (Tele Class)
-    * 교육 내용 ( KAC 인증코치 준비반을 7세션까지 모두 교육 참석시 총 12시간의 실습시간을 충족시킬 수 있음 )
-      * 1세션 - 오리엔테이션, 코칭데모 및 피드백 실시, 버디코칭 정하기
-      * 2세션 - STAR 코칭대화모델리뷰 /2인1조 코칭실습 및 피드백/ 실습 로그작성
-      * 3세션 - STAR 코칭대화모델리뷰 /2인 1조 코칭실습 및 피드백
-      * 4세션 - 2인 1조 코칭실습 및 피드백
-      * 5세션 - 2인 1조 코칭실습 및 피드백
-      * 6세션 - 실제 코칭실습시험과 동일하게 코칭 및 피드백 / 6세션 종료 후 서류점검서비스
-      * 7세션 - 실제 코칭실습시험과 동일하게 코칭 및 피드백
-* 16회 CIT Coaching Showering
-    * 코치님: 이재경 봄 코치
-    * 일시: 2022년 11월 14일 오후 2시
-    * 장소: Zoom
+      * 2022 11/30 ~ 2023 02/22   
 * [CIT 3SC Basic 108기](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/3Cs%20Basic.md)
     * 일시: 22년 11월 12, 19, 26일
     * 코치님: 이은영FT(12일), 이지현 코치님(19일), 정자영매니저, 유동훈 TA 
     * 장소: Zoom    
+* 16회 CIT Coaching Showering
+    * 코치님: 이재경 봄 코치
+    * 일시: 2022년 11월 14일 오후 2시
+    * 장소: Zoom
+
 
 ----
 
