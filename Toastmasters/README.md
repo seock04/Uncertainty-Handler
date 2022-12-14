@@ -16,7 +16,7 @@
   * Level 2    
     * [Introduction to Toastmasters Mentoring]()
     * [Understanding Your Communication Style]()
-    * [Understanding Your Leadership Style]()
+    * [Understanding Your Leadership Style](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Pathway/Visionary%20Communication/Level%202/My%20Leadership%20Style.md)
   * Level 1
     * [Ice Breaker](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Pathway/Visionary%20Communication/Level%201/Ice%20Breaker.md)
     * [Evaluation and Feedback](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Pathway/Visionary%20Communication/Level%201/what%20I%20learned%20from%20the%20work.md)
