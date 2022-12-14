@@ -43,7 +43,7 @@ and for those who thought, it's ridiculous to connect neck pain with keyboard, t
 
 I'm not saying that you have to be like this all day, but just try when you think you are in leader's position. Don't think you can be like this in a one day, you need to do the practice.
 
-But if you consistantly try.. then you will be an good leader one day. How do I know? I know.. and I believe that all of you have potential to be a good leader.
+But if you consistantly try.. then you will be an good leader one day. How do I know? you know I'm learning how to coach, I even started practice.. :) and I know at the same time.. I believe that all of you have potential to be a good leader.
 
 Thanks.
 
