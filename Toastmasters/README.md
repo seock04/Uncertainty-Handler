@@ -17,7 +17,7 @@
 * [Project - Visionary Communication](https://github.com/seock04/Uncertainty-Handler/tree/master/Toastmasters/Pathway/Visionary%20Communication)
   * Level 2    
     * [Introduction to Toastmasters Mentoring]()
-    * [Understanding Your Communication Style]()
+    * [Understanding Your Communication Style](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Pathway/Visionary%20Communication/Level%202/Understanding%20Your%20Communication%20Style.md)
     * [Understanding Your Leadership Style](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Pathway/Visionary%20Communication/Level%202/Understanding%20Your%20Leadership%20Style.md)
   * Level 1
     * [Ice Breaker](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Pathway/Visionary%20Communication/Level%201/Ice%20Breaker.md)
