@@ -1,6 +1,7 @@
 ## Coaching Journey
 ### KAC (Korea Associate Coach Certificate)
 * 시험일정
+    * [시험 관련 주요 공지](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/KAC100%EC%B0%A8%20%EC%8B%9C%ED%97%98%20%EA%B0%9C%EC%A0%95%20%EC%95%88%EB%82%B4.md)
     * 100차 KAC 인증코치 서류접수: 2023년03월06일(월) ~ 2023년03월10일(금)
     * 100차 KAC 인증코치 필기시험: 2023년03월22일(수) ~ 2023년03월24일(금)
     * 100차 KAC 인증코치 실기시험: 2023년04월08일(토)
