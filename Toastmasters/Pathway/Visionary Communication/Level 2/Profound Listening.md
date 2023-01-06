@@ -1,7 +1,7 @@
 
-What do you do when you are stuck to somewhere, you and whoever the person you talk with, can not narrow down the point to agree?
+Do you have experience when you feel stuck? You are in a situation where you have to get all the agreement the others but it seems it's impossible to get agreement from all side, what should we do? give up?
 
-I think it's the time when you profoundly need to check if you are listening well.
+I think it's the time when you need to check if you are listening well.
 
 Then what is profound listening? 
 
