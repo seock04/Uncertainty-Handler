@@ -30,15 +30,14 @@ You have seen that person, suffering from the fact, but I know I still can not a
 
 and finally next step is understanding the real needs.
 
-Although the fact is that she still have the thought or mind that are completely against me, I understand her emotion behind it with whatever reason, she also does not feel great, actually she feels awful because of it. 
+Despite the fact that she still have the thought or mind that are completely against me, I understand her emotion behind it with whatever reason, she also does not feel great, actually she feels awful because of it. 
 
-when it comes to this stage, fact doesn't matter, because it does not mean much to both side. That's why people forgive others sometimes or they just keep distance so that they do not cross the line but still ok to live together.
+when it comes to this stage, fact doesn't matter, because it does not mean much to both side. That's why people forgive others sometimes or they just keep distance so that they do not cross the line.. which is ok to live together in the same society.
 
 I think this is the power of profound listening.
 
-Make yourself to survive i uncomfortable converstation and give another chance to alter your approach. I'm not only talking about the fight but this profound listening can help you understand real story of others that sometimes you it save you from the misguided way.
+Make yourself to survive in uncomfortable converstation and give another chance to alter your approach. I'm not only talking about the fight but this profound listening can help you understand real story of others that sometimes it save you from falling into wrong direction.
 
-
-As a coach or as a leader, we all need to be a good listener because we live in a organization where we should know the real needs of others. So to be the right leader, why don't you train yourself to be a profound listener.
+As a coach or as a leader, we all need to be a good listener because we live in a society where we should know the real needs of others. So to be the right leader, I think it's essential to train yourself to be a profound listener.
 
 Thanks
