@@ -9,7 +9,7 @@
 * [코칭일지](https://docs.google.com/spreadsheets/d/1GNGLjz6dMy2fIAj7vyseQAsomXZ94kgx/edit?rtpof=true&sd=true)
   * [코칭피드백](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/Feedback%20about%20my%20coaching.md)
   * [STAR 대화모델 단계별 질문](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/STAR%20model.md)
-  * [나만의 웰컴 패키지]()
+  * [나만의 웰컴 패키지](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/Welcome%20to%20Coaching%20World.md)
   * [나만의 코칭 성과 측정 Survey]()
 * [KAC 인증 준비반 119기](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/KAC%EC%9D%B8%EC%A6%9D%EC%A4%80%EB%B9%84%EB%B0%98.md)
     * 교육담당: 이지현 전문코치(010-5306-2125, hanragi@daum.net)
