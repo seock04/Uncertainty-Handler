@@ -36,6 +36,7 @@ In this repo, I would like to share the things that I do as a Software Engineer,
 
 # Me
 * [Hoseock Choi](https://github.com/seock04/Uncertainty-Handler/wiki/Hoseock-Choi)
+  * [2023 Vision Board](https://sleet-dinghy-b59.notion.site/2023-Vision-Board-305cc2918545439cb2754a1c491de40a)
 
 # References
 * [Agile Organization Development for Change](http://agile-od.net)
