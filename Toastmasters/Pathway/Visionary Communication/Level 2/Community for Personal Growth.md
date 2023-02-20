@@ -38,8 +38,8 @@ because you can get positive feedback from anyone in this community and they eve
 
 You can even get luck to meet your mentor in this community as well.
 
-Can you guess what this community is? Yes, it's Toastmasters Club I know there are many other Toastmasters club in Korea, SOTM is also excellent 
-place to get together. 
+Can you guess what this community is? Yes, it's Toastmasters Club. I know there are many other Toastmasters club in Korea, SOTM is also excellent 
+place to get together. Yout know, Toastmasters program provide mentoring to the members, so if you ask, you will get one.
 
 All you need is just be the bold faced person who can ask for help whenever necessary. If you find the person who you think best in that field, instead of being 
 nice and not asking help, go and ask if they can help you. 
