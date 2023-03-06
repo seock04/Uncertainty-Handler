@@ -13,3 +13,4 @@ Existing Members
 Total: 66,000 Won
 
 * Kakao Bank 3333-11-7678318 이용일
+* Currency exchange rate (3/6): 1,311
