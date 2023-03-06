@@ -14,7 +14,7 @@ taking exam.
 
 and Second one was Fred who used to help me as mentor for SW certificate, as many of you know, although I'm SW engineer, I struggled for more than 5 years
 to get professional level certificate in Samsung and it was very painful, however, because of the mentoring by Fred. I was able to get it and it helped me
-in may ways.
+in many ways.
 
 1st, I could regain my confidence as SW Engineer, 2nd it opened me new opportunities such as Best Reviewer and so one, 3rd, believe it or not, I think it also
 helped me to get promotion, which I think maybe it will extend my working life in Samsung around 10 years if I want to.
