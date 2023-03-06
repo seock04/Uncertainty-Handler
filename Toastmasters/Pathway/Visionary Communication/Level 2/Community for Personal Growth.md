@@ -36,17 +36,19 @@ skill has improved.
 it's not only for the English ability that you can improve, but if you are in this community for long time like me, you will realize that it's beyond that 
 because you can get positive feedback from anyone in this community and they even volunteer to support you for certain issues.
 
-You can even get luck to meet your mentor in this community as well.
+You can even get lucky to meet your mentor in this community as well because they are all like minded people, just like you, people in Toastmasters usually want to grow and be good at something they are doing professionally and some of the already have more than just success.
 
 Can you guess what this community is? Yes, it's Toastmasters Club. I know there are many other Toastmasters club in Korea, SOTM is also excellent 
-place to get together. Yout know, Toastmasters program provide mentoring to the members, so if you ask, you will get one.
+place to get together. Did you know that Toastmasters program provide mentoring to the members, so if you ask, you will get one.
 
-All you need is just be the bold faced person who can ask for help whenever necessary. If you find the person who you think best in that field, instead of being 
+All you need is just be the bold faced person who can ask for help whenever necessary. If you find the person who you think best in that field, instead of just being 
 nice and not asking help, go and ask if they can help you. 
 
 As long as you have gratitude, I'm sure they will be supportive in many way.
 
-Why don't we grow together?
+Today, I shared 2 big pillar which you may need to be successfull in life, 1 is finding mentor live or not living it's ok as long as they can give you wisdom. 2 is be in a good community where you can find people to support you and maybe provide you the opportunity to find good mentor as well.
+
+I do not know where you are heading now for success, but as long as you are in this community, you are safe phisicially and mentally when it comes to growth, so don't be shy but try as much as you want to get closer to it.
 
 thanks.
 
