@@ -16,16 +16,16 @@ and Second one was Fred who used to help me as mentor for SW certificate, as man
 to get professional level certificate in Samsung and it was very painful, however, because of the mentoring by Fred. I was able to get it and it helped me
 in many ways.
 
-1st, I could regain my confidence as SW Engineer, 2nd it opened me new opportunities such as Best Reviewer and so one, 3rd, believe it or not, I think it also
-helped me to get promotion, which I think maybe it will extend my working life in Samsung around 10 years if I want to.
+1st, I could regain my confidence as SW Engineer, 2nd it opened me new opportunities such as Best Reviewer and so one, 3rd, believe it or not, It also
+helped me to get promotion, which I think maybe extend my working life in Samsung around 10 years if I want to.
 
 then was it only 2 of them who I got support? actually I have more... some of them supported me mentally and some of them recommended me a book which helped me to 
 change my mind to move foward. 
 
-But I have to admit that it's not easy to meet those mentor of your life, because to meet those person, it should be perfect timing because 
-either you are busy or not ready or they didn't have time to help you. So, If you could meet those person, I think you should be very thankful
+But I have to admit that it's not easy to meet those mentor of your life, because meeting those people also require perfect timing, because if not
+either you are busy or not ready or they didn't have time to help you. So, If you could meet those people, I think you should feel very grateful for it
 
-Then, can we not be successful in life if we are not luck? I do not think so..
+Then, can we not be successful in life if we are not lucky? I do not think so..
 
 For me, apart from the mentor who helped me, I also had community for my personal growth. people in this community gave me a constructive feedback, and listen to me
 whenever I want to practice and speak to them.
