@@ -1,16 +1,15 @@
-Last name/Surname: 
-First name: 
-Middle name:
+Last name/Surname: <br>
+First name: <br>
+Middle name:<br>
 
-Organization/In care of: 
-Address line 1 (limit 35 characters): 
-Address line 2 (limit 35 characters): 
-City: 
-State or province:
-Country: 
-Postal code:
+Organization/In care of: <br>
+Address line 1 (limit 35 characters): <br>
+Address line 2 (limit 35 characters): <br>
+City: <br>
+State or province:<br>
+Country: <br>
+Postal code:<br>
 
-Home phone number: 
-Mobile phone number: 
-Email address: 
-Gender (Male/Female/Other):
+Mobile phone number: <br>
+Email address: <br>
+Gender (Male/Female/Other):<br>
