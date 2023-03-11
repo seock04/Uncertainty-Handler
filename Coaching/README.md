@@ -6,6 +6,7 @@
     * 100차 KAC 인증코치 필기시험: 2023년03월22일(수) ~ 2023년03월24일(금)
     * 100차 KAC 인증코치 실기시험: 2023년04월08일(토)
     * 100차 KAC 최종 합격자 발표: 2023년04월17일(월)
+* [KAC 필기 시험 공부 자료]()    
 * [코칭일지](https://docs.google.com/spreadsheets/d/1GNGLjz6dMy2fIAj7vyseQAsomXZ94kgx/edit?rtpof=true&sd=true)
   * [코칭피드백](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/Feedback%20about%20my%20coaching.md)
   * [STAR 대화모델 단계별 질문](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/STAR%20model.md)
