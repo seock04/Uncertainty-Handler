@@ -32,7 +32,7 @@ Agenda
 2. Pathway Education System of Toastmasters / 최호석 / Former SOTM President
 3. Table Topic Session / 박영만 / Former SOTM President
 
-Toastmasters International: www.toastmaters.org
-Cop Link: Homepage link
-Survey Link: 참여신청
+* Toastmasters International: www.toastmaters.org
+* Cop Link: Homepage link
+* Survey Link: 참여신청
 ====
