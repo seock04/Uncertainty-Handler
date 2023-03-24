@@ -16,6 +16,11 @@
 
 ## My Pathway Journey
 * [Project - Visionary Communication](https://github.com/seock04/Uncertainty-Handler/tree/master/Toastmasters/Pathway/Visionary%20Communication)
+  * Level 3
+    * [Develop a Communication Plan]()
+    * [Make Connections Through Networking]()
+    * [Using Descriptive Language]()
+    * [Prepare for an Interview]()
   * Level 2    
     * [Introduction to Toastmasters Mentoring](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Pathway/Visionary%20Communication/Level%202/Community%20for%20Personal%20Growth.md)
     * [Understanding Your Communication Style](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Pathway/Visionary%20Communication/Level%202/Profound%20Listening.md)
