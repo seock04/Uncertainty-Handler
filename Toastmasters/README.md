@@ -17,7 +17,7 @@
 ## My Pathway Journey
 * [Project - Visionary Communication](https://github.com/seock04/Uncertainty-Handler/tree/master/Toastmasters/Pathway/Visionary%20Communication)
   * Level 3
-    * [Develop a Communication Plan]()
+    * [Develop a Communication Plan](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Pathway/Visionary%20Communication/Level%203/SOTM%20Open%20House.md)
     * [Make Connections Through Networking]()
     * [Using Descriptive Language]()
     * [Prepare for an Interview]()
