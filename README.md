@@ -4,16 +4,15 @@ In this repo, I would like to share the things that I do as a Software Engineer,
 
 ![](https://github.com/seock04/Uncertainty-Handler/blob/master/Resources/Screenshot_20200413-140757_Samsung%20Internet.jpg)
 
-## SW Engineer 
+## My Core Value
 * [Work experiences](https://github.com/seock04/Uncertainty-Handler/wiki/Work-Experiences)
-* [Algorithm Challenge](https://github.com/seock04/Uncertainty-Handler/blob/master/Data%20Structure%20and%20Algorithm/README.md)
+* [Coaching](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/README.md)
+* [Toastmasters](https://github.com/seock04/Uncertainty-Handler/tree/master/Toastmasters)
+
+## Scraping
 * [System Design](https://github.com/seock04/Uncertainty-Handler/wiki/System-Design)
 * [Security](https://github.com/seock04/Uncertainty-Handler/wiki/Security)
-
-## Leadership
 * [Leadership in general](https://github.com/seock04/Uncertainty-Handler/wiki/Leadership-in-General)
-* [Toastmasters](https://github.com/seock04/Uncertainty-Handler/tree/master/Toastmasters)
-* [Coaching](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/README.md)
 * [Agile Story](https://github.com/seock04/Uncertainty-Handler/wiki/Agile-Story)
 * [Corporate Culture](https://github.com/seock04/Uncertainty-Handler/wiki/Corporate-Culture)
 * [Productivity](https://github.com/seock04/Uncertainty-Handler/wiki/Productivity)
@@ -23,7 +22,7 @@ In this repo, I would like to share the things that I do as a Software Engineer,
 * [Architect/Tech Consultant](https://github.com/seock04/Uncertainty-Handler/wiki/SW-Architect-or-Tech-Consultant)
 * [Organizational Manager](https://github.com/seock04/Uncertainty-Handler/wiki/Organizational-Manager)
 
-## Communication
+## Side Project
 * [Talk matters](https://github.com/seock04/TalkMatters)
 * [Book Club](./Code%20Review/Book%20Club)
 * [VD Language Study](./VD%20Language%20Study/README.md)
