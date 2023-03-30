@@ -29,7 +29,7 @@ In this repo, I would like to share the things that I do as a Software Engineer,
 
 ## Study
 * [Algorithm Challenge](https://github.com/seock04/Uncertainty-Handler/blob/master/Data%20Structure%20and%20Algorithm/README.md)
-* [Data Science]()
+* [Data Science](https://github.com/seock04/Uncertainty-Handler/wiki/Data-Science)
 
 ## Beyond
 * [Economy, Politics, Cultures and The People](https://github.com/seock04/Uncertainty-Handler/wiki/Economy,-Politics,-Cultures-and-the-People)
