@@ -10,6 +10,7 @@
 * [코칭일지](https://docs.google.com/spreadsheets/d/1GNGLjz6dMy2fIAj7vyseQAsomXZ94kgx/edit?rtpof=true&sd=true)
   * [코칭피드백](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/Feedback%20about%20my%20coaching.md)
   * [STAR 대화모델 단계별 질문](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/STAR%20model.md)
+  * [STAR Coaching Session Model Question List](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/STAR%20model(Eng%20version).md)
   * [나만의 웰컴 패키지](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/Welcome%20to%20Coaching%20World.md)
   * [참고자료](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/references.md)  
   * [경험기록](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/Client.md)
