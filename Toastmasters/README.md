@@ -6,7 +6,7 @@
 * [Guide Videos & Document](https://github.com/seock04/Uncertainty-Handler/wiki/Toastmasters-Guide-Documents-&-Video)
 ### Club Coach
 * [Club Operation](https://github.com/seock04/Uncertainty-Handler/tree/master/Toastmasters/ClubOperation)
-* [Guides]()
+* [Guides](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/ClubCoach/README.md)
 * [Club Coach Program](https://www.toastmasters.org/ClubCoachProgram)
 ### 2020-2021 Area Director of Area 34 Division D, District 93
 * [Club Status](https://github.com/seock04/Uncertainty-Handler/wiki/2020-2021-Area-Club-Status)
