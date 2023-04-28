@@ -1,4 +1,21 @@
-2023, 29th of March, We had open house meeting of SOTM
+
+
+#### We got a situation here, Can we continue the club? 
+* Suddenly president of SOTM decided to step down due to personal issue, we only have 8 members, among 8, 2 are online only members, 1 rarely come to the meeting.
+* WE NEED TO DO SOMETHING!!
+
+#### 2023, 22nd of March We had officers meeting
+
+![image](https://user-images.githubusercontent.com/25078884/235265480-637308da-3339-4fb3-a5b2-4af3441fa373.png)
+![image](https://user-images.githubusercontent.com/25078884/235265583-b813a52e-436e-42a0-b7c8-fe5f9ecce270.png)
+![image](https://user-images.githubusercontent.com/25078884/235265660-9c1614b7-c4a1-495b-9267-97c6c2196082.png)
+![image](https://user-images.githubusercontent.com/25078884/235265722-35f17ad9-c191-4a13-82ea-323f79686797.png)
+
+##### Result?
+* 
+
+
+#### 2023, 29th of March, We had open house meeting of SOTM
 
 
 ====
