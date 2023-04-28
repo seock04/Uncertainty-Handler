@@ -24,7 +24,7 @@
  - Eat together
 
 ##### Build trusting team!
- - Member should be able to feel...
+- Member should be able to feel...
   - there is something I can learn
   - there is something I can enjoy 
   - there is people I can respect
