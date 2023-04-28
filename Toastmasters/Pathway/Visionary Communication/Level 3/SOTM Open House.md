@@ -82,6 +82,31 @@ Agenda
 * Need less people to prepare the meeting
 * Everyone can participate and share their needs and feeling before and after the meeting
 
+#### Mosaic Community, Messenger, Role Sheet (Thank you YTTM!!!!), and Mentoring
+* Mosaic is like a blog, every notice, survey, even writing goes with it
+* Use one Messenger and share the Agenda via online only (no printing)
+* Share the "Role Sheet" in advance and motivate them to use it in advance... How??
+* Start Mentoring system immediately!
+
+### Action 3 Mentoring them all sincerely
+* Let them understand how to use "Pathway" with "Role Sheet" to achieve what they came for
+
+#### Important thing is "What they came for" FIRST!!!!!!
+
+* Listen to their needs and explains how to use Toastmasters education system to fulfill their goal in Club
+
+### Action 4 Get to know each other
+* Make social gathering 
+* Talk to members more often
+* Give Sincere feedback to their needs
+* Motivate them for their next step!
+
+
+## Understanding their needs and arrange the others to meet their goal is next!
+* DO not put club (or Area or District) goal first!!!!
+* Member's goal should be the FIRST priority
+* Toastmasters System is good?, no.. it's Great!!!, just I didn't use it in a proper way yet
+* Learn by doing is not only for new member..
 
 
 
