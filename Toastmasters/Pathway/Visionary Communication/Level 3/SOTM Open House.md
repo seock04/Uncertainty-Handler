@@ -25,10 +25,10 @@
 
 ##### Build trusting team!
  - Member should be able to feel...
-  . there is something I can learn
-  . there is something I can enjoy 
-  . there is people I can respect
-  . I can do it in my real life
+  - there is something I can learn
+  - there is something I can enjoy 
+  - there is people I can respect
+  - I can do it in my real life
 
 ##### Make a system! 
  - Let them know what we have!
