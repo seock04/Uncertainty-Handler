@@ -4,7 +4,7 @@
 * Suddenly president of club decided to step down due to personal issue, we only have 8 members, among 8, 2 are online only members, 1 rarely come to the meeting.
 * WE NEED TO DO SOMETHING!!
 
-### 2023, 22nd of March We had officers meeting
+## 2023, 22nd of March We had officers meeting
 
 #### Discussion to understand the real issue
 ![image](https://user-images.githubusercontent.com/25078884/235265480-637308da-3339-4fb3-a5b2-4af3441fa373.png)
@@ -12,7 +12,7 @@
 ![image](https://user-images.githubusercontent.com/25078884/235265660-9c1614b7-c4a1-495b-9267-97c6c2196082.png)
 ![image](https://user-images.githubusercontent.com/25078884/235265722-35f17ad9-c191-4a13-82ea-323f79686797.png)
 
-#### Planning what to focus
+## Planning what to focus
 ##### Do what member wants!
  - Doing what people want is first (English? Public Speech? Leadership?)
  - Everyone has different Needs
@@ -27,7 +27,7 @@
 - Member should be able to feel...
   - there is something I can learn
   - there is something I can enjoy 
-  - there is people I can respect
+  - there are people I want to get together
   - I can do it in my real life
 
 ##### Make a system! 
@@ -36,9 +36,8 @@
  - Let them plan and allow them to follow in advance
 
 
- 
-#### 2023, 29th of March, We had open house meeting of SOTM
-
+## Make an Action 
+### Action 1 - 2023, 29th of March, Open house meeting of SOTM
 
 ====
 Post on Knox Home
@@ -75,3 +74,14 @@ Agenda
 * Cop Link: Homepage link
 * Survey Link: 참여신청
 ====
+
+
+
+### Action 2 - Build System
+* More efficient system to prepare the meeting
+* Need less people to prepare the meeting
+* Everyone can participate and share their needs and feeling before and after the meeting
+
+
+
+
