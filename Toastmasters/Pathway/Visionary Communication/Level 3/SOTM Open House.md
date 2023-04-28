@@ -1,21 +1,42 @@
 
 
-#### We got a situation here, Can we continue the club? 
+## We got a situation here, Can we continue the club? 
 * Suddenly president of club decided to step down due to personal issue, we only have 8 members, among 8, 2 are online only members, 1 rarely come to the meeting.
 * WE NEED TO DO SOMETHING!!
 
-#### 2023, 22nd of March We had officers meeting
+### 2023, 22nd of March We had officers meeting
 
-##### Result?
-* 
+#### Discussion to understand the real issue
 ![image](https://user-images.githubusercontent.com/25078884/235265480-637308da-3339-4fb3-a5b2-4af3441fa373.png)
 ![image](https://user-images.githubusercontent.com/25078884/235265583-b813a52e-436e-42a0-b7c8-fe5f9ecce270.png)
 ![image](https://user-images.githubusercontent.com/25078884/235265660-9c1614b7-c4a1-495b-9267-97c6c2196082.png)
 ![image](https://user-images.githubusercontent.com/25078884/235265722-35f17ad9-c191-4a13-82ea-323f79686797.png)
 
+#### Planning what to focus
+##### Do what member wants!
+ - Doing what people want is first (English? Public Speech? Leadership?)
+ - Everyone has different Needs
+ - Freedom is valuable, but learn by doing is what they came for.
+
+##### Do it together!
+ - Learn together
+ - Talk together
+ - Eat together
+
+##### Build trusting team!
+ - Member should be able to feel...
+  . there is something I can learn
+  . there is something I can enjoy 
+  . there is people I can respect
+  . I can do it in my real life
+
+##### Make a system! 
+ - Let them know what we have!
+ - Let them know how to use it!
+ - Let them plan and allow them to follow in advance
 
 
-
+ 
 #### 2023, 29th of March, We had open house meeting of SOTM
 
 
