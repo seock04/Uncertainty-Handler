@@ -103,7 +103,7 @@ Agenda
 
 
 ## Understanding their needs should be FIRST! and arrange the others to meet their goal is next!
-* DO not put club (or Area or District) goal first!!!!
+* DO not put club (nor Area, nor District) goal before member!!!!
 * Member's goal should be the FIRST priority
 * Toastmasters System is good?, no.. it's Great!!!, just I didn't use it in a proper way yet
 * Learn by doing is not only for new member..
