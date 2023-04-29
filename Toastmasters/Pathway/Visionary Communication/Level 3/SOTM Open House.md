@@ -102,6 +102,14 @@ Agenda
 
 * Listen to their needs and explains how to use Toastmasters education system to fulfill their goal in Club
 
+#### Admit that every single individual has different purpose of joing the club
+* Some just want to learn how to speak in English
+* A few aim to become good public speaker but in small scale (in English with no bigger than 10 people)
+* A few aim to become fluent in conference leading, facilitating the meeting (in English, with small group)
+* Very little, aim for leadership role (Club President, officers)
+
+## Everyone has different purpose and they are all RIGHT!! 
+ 
 ### Action 4 Get to know each other
 * Make social gathering 
 * Talk to members more often
