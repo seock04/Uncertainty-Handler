@@ -39,7 +39,7 @@
 ## Make an Action 
 ### Action 1 - 2023, 29th of March, Open house meeting of SOTM
 
-====
+<pr> ====
 Post on Knox Home
 
 안녕하세요
@@ -73,9 +73,14 @@ Agenda
 * Toastmasters International: www.toastmaters.org
 * Cop Link: Homepage link
 * Survey Link: 참여신청
-====
+<pr> ====
 
+ **Schedule of Talk Matters Season 4**
 
+| | As Is | To Be |
+| --- | --- | --- |
+| Join open House | * Goal 10 | * 41 people (including 1 VP) | 
+| Official Members | * 8 Members <br> * Officers only| * 26 Members | 
 
 ### Action 2 - Build System
 * More efficient system to prepare the meeting
