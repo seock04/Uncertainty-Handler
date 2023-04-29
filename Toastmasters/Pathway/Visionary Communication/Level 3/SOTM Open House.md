@@ -77,11 +77,13 @@ Agenda
 
  **Schedule of Talk Matters Season 4**
 
-| | As Is | To Be |
+| Item | As Is | To Be |
 | --- | --- | --- |
-| Join open House | * Goal 10 | * 41 people (including 1 VP) | 
+| Open House | * Goal 10 | * 41 people (including 1 VP) | 
 | Official Members | * 8 Members <br> * Officers only| * 26 Members | 
 
+** What's Next? ** 
+ 
 ### Action 2 - Build System
 * More efficient system to prepare the meeting
 * Need less people to prepare the meeting
