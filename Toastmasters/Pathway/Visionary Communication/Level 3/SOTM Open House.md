@@ -1,4 +1,20 @@
 
+Hello everyone,
+As many of you know, I've been involved with this club for quite some time now. Over the past few months, we've had some exciting developments that I'd like to share with you all.
+Firstly, I am pleased to announce that our open house event was a great success. We were able to attract a diverse group of individuals who were interested in what our club has to offer, and as a result, we have added 17 new members to our club. This brings our total membership to 26, which is a fantastic achievement!
+But attracting new members is only half the battle. Keeping them engaged and excited about being part of the club is equally important.
+As you may know, our Toastmasters club offers a pathway education system that can be accessed online. However, we realized that some of our members were having difficulty understanding how to use the system and how to apply it to our offline club meetings.
+To address this issue, I decided to take action and implement a mentoring program. / (Pause)
+As the mentor for this program, I focused on helping members understand the role sheet, which is the time table for our weekly club meetings, and how to relate it to the pathway system. Through the coaching and group discussions, I shared my information on the subject and provided guidance on how to use the pathway system to enhance their learning experience.
+I am proud to say that the mentoring program was a success, and our members now have a better understanding of how to use the pathway system and how to apply it to our club meetings. / (Pause)
+In addition to the mentoring program, I also organized a social dinner event with eight members among the 17 new members we welcomed to our club. This event provided an opportunity for us to get to know each other on a personal level and build stronger connections within the club. I believe that building relationships and fostering a sense of community is just as important as developing our communication and leadership skills. / (Pause)
+Moving forward, I aim to continue offering mentoring and coaching programs to our members. I understand that each member has their own unique goals and aspirations, and I want to help them achieve those goals within our club. Through one-on-one coaching sessions, I plan to work with each member to identify their specific target goal in Toastmasters, whether it's improving their English conversation ability, mastering meeting facilitation skills, or developing leadership qualities for leading an organization. Then, I will assist them in creating a customized action plan to move towards their final goal. / (Pause)
+I firmly believe that investing in the personal and professional development of our members is crucial to the success and growth of our club. By offering tailored coaching and mentoring programs, we can ensure that every member has the opportunity to reach their full potential in Toastmasters.
+So as we continue to support each other and grow together, our individual successes will ultimately lead to the success of our club as a whole. So, I encourage each and every one of you to take advantage of the resources and programs available to you in this club and to always keep striving towards your goals. And with that, I'd like to ask: what are your personal goals in Toastmasters, and how can we, as a club, support you in achieving them? Let's work together to make those aspirations a reality. / (Pause)
+Thank you.
+
+
+----
 
 ## We got a situation here, Can we continue the club? 
 * Suddenly president of club decided to step down due to personal issue, we only have 8 members, among 8, 2 are online only members, 1 rarely come to the meeting.
