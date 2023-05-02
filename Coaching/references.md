@@ -1,5 +1,5 @@
 ### My Writing
-* [Process to see myself]()
+* [나에 대한 탐구](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/'%EB%82%98'%20%EC%97%90%20%EB%8C%80%ED%95%9C%20%ED%83%90%EA%B5%AC.md)
 * [목표를 향해 가는 방법](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/How%20to%20Achieve%20the%20Goal.md)
 
 ### Youtube(ENG)
