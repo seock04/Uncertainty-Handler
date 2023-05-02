@@ -1,6 +1,6 @@
 ### My Writing
 * [Process to see myself]()
-* [목표를 향해 가는 방법]()
+* [목표를 향해 가는 방법](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/How%20to%20Achieve%20the%20Goal.md)
 
 ### Youtube(ENG)
 * [Want to get great at something? Get a coach | Atul Gawande](https://www.youtube.com/watch?v=oHDq1PcYkT4)
