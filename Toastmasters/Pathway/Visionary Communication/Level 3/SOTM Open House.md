@@ -43,7 +43,7 @@ Until now, I learned many things like personal goal setting and club goal settin
 
 It was very simple and obvious but at the same time, it's difficult to feel it, I don't mean knowing it with your brain, but feeling that it actually works.
 
-###### It's member first.
+##### It's member first.
 
 We have to understand that each member has their own unique goal and aspirations, and I want to help them achieve those goals within club. Through one-on-one coaching sessions, I plan to work with each members to identify their specific target goal in Toastmasters, whether it's improving their English conversation ability, mastering meeting facilitation skills, or developing leadership qualities for leading an organization. Then, I will assist them in customized action plan to move toward their final goal by offering tailored coaching and mentoring programs. This way we can ensure that everymembers have the opportunity to reach their full potential in Toastmasters.
 
