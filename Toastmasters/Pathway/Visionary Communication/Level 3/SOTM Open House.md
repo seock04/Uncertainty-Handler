@@ -173,6 +173,8 @@ Agenda
  
 ### Action 2 - Build System
 * More efficient system to prepare the meeting
+
+
 * Need less people to prepare the meeting
 * Everyone can participate and share their needs and feeling before and after the meeting
 
@@ -184,7 +186,8 @@ Agenda
 
 ### Action 3 Mentoring them all sincerely
 * Let them understand how to use "Pathway" with "Role Sheet" to achieve what they came for
-
+![image](https://github.com/seock04/Uncertainty-Handler/assets/25078884/4de99423-d8ba-460b-981e-fe79832779c5)
+ 
 #### Important thing is "What they came for" FIRST!!!!!!
 
 * Listen to their needs and explains how to use Toastmasters education system to fulfill their goal in Club
