@@ -43,12 +43,12 @@ Until now, I learned many things like personal goal setting and club goal settin
 
 It was very simple and obvious but at the same time, it's difficult to feel it, I don't mean knowing it with your brain, but feeling that it actually works.
 
-It's member first.
-######## (생략가능
+###### It's member first.
+
 We have to understand that each member has their own unique goal and aspirations, and I want to help them achieve those goals within club. Through one-on-one coaching sessions, I plan to work with each members to identify their specific target goal in Toastmasters, whether it's improving their English conversation ability, mastering meeting facilitation skills, or developing leadership qualities for leading an organization. Then, I will assist them in customized action plan to move toward their final goal by offering tailored coaching and mentoring programs. This way we can ensure that everymembers have the opportunity to reach their full potential in Toastmasters.
 
 And I believe that investing in personal and professional development of members are crucial to the success and growth of the club because on the way to there, they will make a speech, taking a role and brining a more people who they can trust.
-######## 생략가능]
+
 
 I'm still learning in this process because it's not ended yet even with YTTM Club Coaching. Personally, I strongly encourage each and every one of you to take advantage of the resources and program available to you in this club and always keep striving toward your goals. Because that will also move your club, area and district toward success as well.
 
