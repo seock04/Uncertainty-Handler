@@ -37,7 +37,7 @@ I wanted to give them what they want and to do that, there were only one way to 
 
 Anyway, during this time, I didn't even say a word about officers, Area, District to them because non of them told me that they need to practice leadership :). Instead, before or after the meeting, I gave my personal feedback to their role/speech throughout the messenger, blug, email, in person and so on, I celebrated their small achievement authentically with sincerity and encouraged them to move foward.
 
-You may wonder how it ends, Here was my goal, I wanted to learn about how to make a very good community, community where full of leaders who I can trust, because that's one of the way I measure succss of my life. And I also wanted to prove if it really works, which I learned from Toasmaster journey because non of the things that I did is new. It was all there in Toastmasters.
+You may wonder how it ends,######## (생략가능 Here was my goal, I wanted to learn about how to make a very good community, community where full of leaders who I can trust, because that's one of the way I measure succss of my life. And I also wanted to prove if it really works, which I learned from Toasmaster journey because non of the things that I did is new. It was all there in Toastmasters.######## 생략가능]
 
 Until now, I learned many things like personal goal setting and club goal setting and so on, when I look back, I think I did quite a good job on my personal goal, but really well on club goal. I thought it's because of the missing point that I found in last couple of months.
 
