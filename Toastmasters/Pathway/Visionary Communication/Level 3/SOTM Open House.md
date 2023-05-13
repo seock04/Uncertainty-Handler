@@ -1,4 +1,63 @@
 ### 7 min speech
+#### YTTM Version
+As many of you know, I've been invlolved with Toastmasters for quite sometime and over the past few months, I've had some exciting developments that I'd like tos hare with you.
+Around 2 month ago, my home club ad some sort of crisis and it all started with the regignation of the president in club.
+
+We've had emergency officer's meeting and we even had area director came to visit at that time. To tell you the truth, although it started with resigning of the presidency, but it was just a tip of the iceburg from my perspectie, because we've had issues with lag of club members in last few years and continuing meeting every week was also the challenging point because of it.
+
+Then, is it only issue in my home club? Well, I'm not sure but I don't think were alone for it and I wanted to find out how we can go through this difficult time.
+
+Meeting started, and I didn't know what to say at first, but I decided to listen first.
+
+Right before I start my speech I shared one of the link and if you open it and scroll down a little bit, you may be able to see some pictures that we discussed.
+
+How do you think? Do you agree on any of it? well..
+
+If you are sensitive person, you may noticed that some of them are underlined with red, and I thought those are the important thing for the people in the club.
+
+So, I the plan started, first was attracting more people, I knew that there are needs of improving English ability among employees, but you konw we never teach English and I didn't want to hide what Toastmasters is neither, so I thought about how to communicate it.
+
+As far as I know there are 2 ways of improving language skill. One is studying and practcing the language itself and the other is using that language to do what I need to do.
+
+Although I'm not sure what's more powerful way for everyone, but since Toastmaster never teach you English itself, I focused on 2nd part.
+
+I wrote in the company bulletin board like this,
+
+"Do you need environment where you can practice English presentation, Conference leading or if you don't really care about those but just need partner and place where you can practice talking in English? Please come and join the Open House of SOTM. SOTM is a club with people who want to grow together by using education system of Toastmasters which is well known for publich speech and Leadership, and language used in here is English"
+
+How do you think? Do you think it worked?
+
+I'm pleased to tell you that open house event was a great success. There were more than 40 people joined to the open house meeting and as a result, we have added 17 new members to our club which is fantastic achievement!. And it's still ongoing story even now.
+
+But attracting new members was only half the battle. Keeping them engaged and excited about being part of the club is equally important or more important.
+
+So, I took a time to thought about it again and asked question to them."What are the primary reason to come to this club? English? Leadership? Public Speech? to you?" What I realized later is that they all had different reason. Although we can categorize them in some group, still they all had slightly different preferred speed skills and necessity when they see the Toastmasters.
+
+I wanted to give them what they want and to do that, there were only one way to do it. Talk with them individually and let them konw how to do it in club. Later I also decided to do the same in YTTM but soon I realized that circumstances and the context were quite different that motivating people in here needs another way. 
+
+Anyway, during this time, I didn't even say a word about officers, Area, District to them because non of them told me that they need to practice leadership :). Instead, before or after the meeting, I gave my personal feedback to their role/speech throughout the messenger, blug, email, in person and so on, I celebrated their small achievement authentically with sincerity and encouraged them to move foward.
+
+You may wonder how it ends, Here was my goal, I wanted to learn about how to make a very good community, community where full of leaders who I can trust, because that's one of the way I measure succss of my life. And I also wanted to prove if it really works, which I learned from Toasmaster journey because non of the things that I did is new. It was all there in Toastmasters.
+
+Until now, I learned many things like personal goal setting and club goal setting and so on, when I look back, I think I did quite a good job on my personal goal, but really well on club goal. I thought it's because of the missing point that I found in last couple of months.
+
+It was very simple and obvious but at the same time, it's difficult to feel it, I don't mean knowing it with your brain, but feeling that it actually works.
+
+It's member first.
+######## (생략가능
+We have to understand that each member has their own unique goal and aspirations, and I want to help them achieve those goals within club. Through one-on-one coaching sessions, I plan to work with each members to identify their specific target goal in Toastmasters, whether it's improving their English conversation ability, mastering meeting facilitation skills, or developing leadership qualities for leading an organization. Then, I will assist them in customized action plan to move toward their final goal by offering tailored coaching and mentoring programs. This way we can ensure that everymembers have the opportunity to reach their full potential in Toastmasters.
+
+And I believe that investing in personal and professional development of members are crucial to the success and growth of the club because on the way to there, they will make a speech, taking a role and brining a more people who they can trust.
+######## 생략가능]
+
+I'm still learning in this process because it's not ended yet even with YTTM Club Coaching. Personally, I strongly encourage each and every one of you to take advantage of the resources and program available to you in this club and always keep striving toward your goals. Because that will also move your club, area and district toward success as well.
+
+Let me do my work and you focus on what you belive you want to do, together I'm sure we can make your goal reality.
+
+Would you join with me?
+
+Thank you.
+#### Home Club version
 ----
 Hello everyone,
 
