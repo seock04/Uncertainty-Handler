@@ -1,9 +1,9 @@
 ### 7 min speech
 #### YTTM Version
-As many of you know, I've been invlolved with Toastmasters for quite sometime and over the past few months, I've had some exciting developments that I'd like tos hare with you.
+As many of you know, I've been invlolved with Toastmasters for quite sometime and over the past few months, I've had some exciting developments that I'd like to share with you.
 Around 2 month ago, my home club ad some sort of crisis and it all started with the regignation of the president in club.
 
-We've had emergency officer's meeting and we even had area director came to visit at that time. To tell you the truth, although it started with resigning of the presidency, but it was just a tip of the iceburg from my perspectie, because we've had issues with lag of club members in last few years and continuing meeting every week was also the challenging point because of it.
+We've had emergency officer's meeting and we even had area director came to visit at that time. To tell you the truth, although it started with resigning of the presidency, but it was just a tip of the iceburg from my perspectie, because we've had issues with lack of club members in last few years and continuing meeting every week was also the challenging point because of it.
 
 Then, is it only issue in my home club? Well, I'm not sure but I don't think were alone for it and I wanted to find out how we can go through this difficult time.
 
