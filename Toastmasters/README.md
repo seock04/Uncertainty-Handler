@@ -20,7 +20,7 @@
   * Level 3
     * [Develop a Communication Plan](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Pathway/Visionary%20Communication/Level%203/SOTM%20Open%20House.md)
     * [Make Connections Through Networking]()
-    * [Using Descriptive Language]()
+    * [Using Descriptive Language](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Pathway/Visionary%20Communication/Level%203/The%20Singularity%20is%20near.md)
     * [Prepare for an Interview]()
   * Level 2    
     * [Introduction to Toastmasters Mentoring](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Pathway/Visionary%20Communication/Level%202/Community%20for%20Personal%20Growth.md)
