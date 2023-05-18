@@ -13,3 +13,6 @@
   * 모임 주기: 1달에 한번, online(줌)
   * 활동: 스터디, 버디코칭
   * 멤버: 이유미, 이유경, 최호석
+
+### 2023
+* [5월 KAC 개더링](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/2023-05-18%20KAC%20Gathering.md)
