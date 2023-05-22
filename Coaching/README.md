@@ -7,6 +7,7 @@
 * [STAR 대화모델 단계별 질문](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/STAR%20model.md)
 * [STAR Coaching Session Model Question List](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/STAR%20model(Eng%20version).md)
 * [나만의 웰컴 패키지](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/Welcome%20to%20Coaching%20World.md)
+* [2023 "변화 코치"의 코칭 비전](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/2023%20Coaching%20Vision.md)
 
 ### KAC (Korea Associate Coach Certificate)
 * 시험일정
