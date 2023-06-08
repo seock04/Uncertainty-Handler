@@ -2,12 +2,13 @@
 
 ## Agenda
 
+### [New Member Notice](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/ClubCoach/Membership%20Coaching%20Notice.md)
+
 ### Why do you join the Toastmasters Club?
  - Public Speech? Fluent English Conversation? Presentation? Leadership? Networking?
   
 ### How to use Pathway from Base Camp?
- - [New Member Notice](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/ClubCoach/Membership%20Coaching%20Notice.md)
- - Level 1, elective project
+  - Level 1, elective project
 
 ### Why need community?
  - Level 3, 4 Projects
