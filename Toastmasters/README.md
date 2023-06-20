@@ -19,6 +19,7 @@
 * [Project - Visionary Communication](https://github.com/seock04/Uncertainty-Handler/tree/master/Toastmasters/Pathway/Visionary%20Communication)
   * Level 3
     * [Develop a Communication Plan](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Pathway/Visionary%20Communication/Level%203/SOTM%20Open%20House.md)
+    * [Focus on the Positive]()
     * [Make Connections Through Networking](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Pathway/Visionary%20Communication/Level%203/Networking.md)
     * [Using Descriptive Language](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Pathway/Visionary%20Communication/Level%203/The%20Singularity%20is%20near.md)
     * [Prepare for an Interview](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Pathway/Visionary%20Communication/Level%203/Prepare%20for%20an%20Interview.md)
