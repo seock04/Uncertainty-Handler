@@ -17,3 +17,4 @@
 ### 2023
 * [2023-5-23 - CiT 글로벌 세미나](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/2023-05-CiT%EA%B8%80%EB%A1%9C%EB%B2%8C%EC%84%B8%EB%AF%B8%EB%82%98.md)
 * [2023-5-18 - KAC 개더링](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/2023-05-18%20KAC%20Gathering.md)
+* 책 리뷰 & 질문 - [이너게임](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/InnerGameOfWork.md) 
