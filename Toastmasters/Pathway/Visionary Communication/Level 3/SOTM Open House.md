@@ -162,7 +162,7 @@ Agenda
 * Survey Link: 참여신청
 <pr> ====
 
- **Schedule of Talk Matters Season 4**
+ **What I wished from Open House and the Result**
 
 | Item | As Is | To Be |
 | --- | --- | --- |
