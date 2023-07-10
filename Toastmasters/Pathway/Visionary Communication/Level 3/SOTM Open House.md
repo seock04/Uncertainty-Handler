@@ -186,7 +186,14 @@ Agenda
 
 ### Action 3 Mentoring them all sincerely
 * Let them understand how to use "Pathway" with "Role Sheet" to achieve what they came for
-![image](https://github.com/seock04/Uncertainty-Handler/assets/25078884/4de99423-d8ba-460b-981e-fe79832779c5)
+![image](https://github.com/seock04/Uncertainty-Handler/assets/25078884/1af9531d-c19a-4dbe-8d83-322bdb5cd03c)
+| 7 Weeks |  | 
+| --- | --- |
+| ![image](https://github.com/seock04/Uncertainty-Handler/assets/25078884/7ffeb46b-9bbe-49c3-844f-eb30d7b6c544)
+ | ![image](https://github.com/seock04/Uncertainty-Handler/assets/25078884/43d486eb-6c2b-4e38-bf22-6a42a636a32c)
+ |
+
+
  
 #### Important thing is "What they came for" FIRST!!!!!!
 
