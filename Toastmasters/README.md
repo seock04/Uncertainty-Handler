@@ -18,12 +18,12 @@
 ## My Pathway Journey
 * [Project - Visionary Communication](https://github.com/seock04/Uncertainty-Handler/tree/master/Toastmasters/Pathway/Visionary%20Communication)
   * Level 4
-    * [Prepare for an Interview](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Pathway/Visionary%20Communication/Level%203/Prepare%20for%20an%20Interview.md) 
+    * [Prepare for an Interview](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Pathway/Visionary%20Communication/Level%203/Prepare%20for%20an%20Interview.md)
+    * [Using Descriptive Language](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Pathway/Visionary%20Communication/Level%203/The%20Singularity%20is%20near.md)
   * Level 3
     * [Develop a Communication Plan](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Pathway/Visionary%20Communication/Level%203/SOTM%20Open%20House.md)
     * [Focus on the Positive](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Pathway/Visionary%20Communication/Level%203/Focus%20on%20the%20Positive.md)
     * [Using Presentation Software](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Pathway/Visionary%20Communication/Level%203/Visual%20Aid.md)
-    * [Using Descriptive Language](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Pathway/Visionary%20Communication/Level%203/The%20Singularity%20is%20near.md)
   * Level 2    
     * [Introduction to Toastmasters Mentoring](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Pathway/Visionary%20Communication/Level%202/Community%20for%20Personal%20Growth.md)
     * [Understanding Your Communication Style](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Pathway/Visionary%20Communication/Level%202/Profound%20Listening.md)
