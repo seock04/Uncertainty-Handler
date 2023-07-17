@@ -18,7 +18,7 @@
 ## My Pathway Journey
 * [Project - Visionary Communication](https://github.com/seock04/Uncertainty-Handler/tree/master/Toastmasters/Pathway/Visionary%20Communication)
   * Level 4
-    * [Communicate Change](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Pathway/Visionary%20Communication/Level%203/Prepare%20for%20an%20Interview.md)
+    * [Communicate Change](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Pathway/Visionary%20Communication/Level%204/Communicate%20Change.md)
     * [Write a Compelling Blog](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Pathway/Visionary%20Communication/Level%203/The%20Singularity%20is%20near.md)
   * Level 3
     * [Develop a Communication Plan](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/Pathway/Visionary%20Communication/Level%203/SOTM%20Open%20House.md)
