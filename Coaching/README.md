@@ -11,10 +11,13 @@
 
 ### KPC (Korea Professional Coach Certificate)
 * 시험일정 (TBD)
-* Cit Coaching Techonology
+* [Cit Coaching Techonology]()
   * 교육담당: 김면수 코치, 임민정 코치, 허남주 코치, 허지원 매니저
+  * 일시: 23년 7월 5, 8, 12일
   * 교육과정:
     * 관점코칭, 가정.신념찾기코칭, 감정코칭, 가치찾기코칭, Here&Now코칭, 해결중심단기코칭
+  * 교육진행 장소 및 형태
+    * CiT 사무실   
  * 인상적인만남
    * 김영준 코치님, 계성경 코치님, 조영이 코치님, 임경욱 코치님
 
