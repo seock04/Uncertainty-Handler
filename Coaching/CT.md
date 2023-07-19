@@ -183,3 +183,4 @@
 ----
 
 ### 해결중심단기코칭
+* [KAC 를 위해 배워왔던 STAR 모델](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/STAR%20model.md)
