@@ -9,6 +9,15 @@
 * [나만의 웰컴 패키지](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/Welcome%20to%20Coaching%20World.md)
 * [2023 "변화 코치"의 코칭 비전](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/2023%20Coaching%20Vision.md)
 
+### KPC (Korea Professional Coach Certificate)
+* 시험일정 (TBD)
+* Cit Coaching Techonology
+  * 교육담당: 김면수 코치, 임민정 코치, 허남주 코치, 허지원 매니저
+  * 교육과정:
+    * 관점코칭, 가정.신념찾기코칭, 감정코칭, 가치찾기코칭, Here&Now코칭, 해결중심단기코칭
+ * 인상적인만남
+   * 김영준 코치님, 계성경 코치님, 조영이 코치님, 임경욱 코치님
+
 ### KAC (Korea Associate Coach Certificate)
 * 시험일정
     * [시험 관련 주요 공지](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/KAC100%EC%B0%A8%20%EC%8B%9C%ED%97%98%20%EA%B0%9C%EC%A0%95%20%EC%95%88%EB%82%B4.md)
