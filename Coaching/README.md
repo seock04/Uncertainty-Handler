@@ -8,6 +8,7 @@
 * [STAR Coaching Session Model Question List](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/STAR%20model(Eng%20version).md)
 * [나만의 웰컴 패키지](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/Welcome%20to%20Coaching%20World.md)
 * [2023 "변화 코치"의 코칭 비전](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/2023%20Coaching%20Vision.md)
+* [코칭 블로그](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/Blog.md)
 
 ### KPC (Korea Professional Coach Certificate)
 * 시험일정 (TBD)
