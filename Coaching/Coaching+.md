@@ -1,13 +1,27 @@
 # 3Cs Coaching Plus
 
 ## ICF 핵심역량모델
+* 코칭관계는? Co-Creating 하는 것임 - 기존 관계의 연장이 아님
+* 고객의 감정은 항상 옳다. -> 내가 함께 있어줄께! (해결 해줄께가 아님!)
+* Action 과 Behavior
+ * Action: Intention이 포함된 것임
+   * 예) 2/14 정도 했다면? 2번은 가능했네요. 어떻게 가능했나요? 라는 질문!, 고객이 학습프로세스를 깨닿게 해줌  
+ * Behavior: 그냥 하는 행동
+ * Behavior -> Action + Plan -> New Behavior (개인/조직문화)  
 * 사례연구
 
 ## 에너지듣기
 ## 질문하기
+* 직관과 판단은
 ## 코칭언어
 ## 코칭관계
 ## 코칭대화모델 STAR
 * 공부
   
 ## FEN
+
+## 레퍼런스 추천
+* 섬세 - 김범진 코치님
+* 상자밖에 있는 사람 - 아빈저
+* 아웃워드 마인드셋 - 아빈저
+* Vulnerability & Shame - Bene Brown
