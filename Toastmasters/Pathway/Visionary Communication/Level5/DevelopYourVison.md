@@ -1,48 +1,65 @@
-If you ask me what was the most significant achievement I ever had in last 10 years, I would say, It's experiences that I had from Toastmasters Club.
+Proop of Concept for the bigger world
 
-While I was in there, I've learned skills for the public speech just like now, leadership skills to run small organization like Toastmasters Club 
-and how to communicate with people to achieve what I wanted.
+Have you ever heard of the word, POC before? This is a kind of jargon that we use in engineering world when there is something that we think good but not sure
+so we try to make it to see if it's really working as we expected.
 
-It also gave me the confidence in English so now I'm not afraid of doing anything in English, even for the professional level.
+In my life, it's full of POC, first, in order to understand the feeling of being 1st means everything, I joined high school basketball team and until I graduate the university, 
+I competed in game so many time to get the championship. Although it's not like national basketball team or NBA, It was still very sweat to win the competetion. 
 
-A few years ago, while I was doing my pathway project, I made catch phrase for my life like "Uncertainty Handler".
+But I realized after around 10 years of trial that winning is not everything in my life, it feels good for very short period of the time but some how I'm not that kind of person
+who likes to win over other people.
 
-World is becoming more and more uncertain that I as a human, l wish to become the person who is not afraid of uncertainty but willing to put myself in the center of it
-to over come and help other people to live happily.
+next, I applied Enginnering school even after I graudated from 문과 liberal arts from high school. It was really full of surprise and until now, I had to keep really good relationship
+with my professor when I was in the first grade because I was so bad in Mathmathics and after I got a job in Samsung because of those algorithm knowledge based on Math,
+I was under very deep dark tunner for about 5 years until I pass the SW certificate Exam for professional level.
 
-Amazingly, although I was so much afraid of my professional career, I could pass the hectic exam for the SW engineer and even become the principal something in the club.
+I also did quite many POC in Toastmasters, I tried to engage with local University in order to keep the sufficient member counts when I was the president of 
+Gumi Smart City Toastmasters Club and being President of SOTM for the first time around 6 years ago was also kind of proop of concept for me to know if I can do this kind of job.
 
-which is amazing because when I look back, I still remember that I thought I might work as SW engineer around 3 years when I first join this company
-but it's been already more than 17 years now.
+To tell you to truth, the open house that I had early this year with you was the POC as well it turns out as jackpot, one of the biggest success in my life, and trying to be a coach was also one of them.
 
-If I have to choose one thing about the value of the toastmasters, it's not about leadership or communication skills. 
+And.. my latest POC is based on the knowledge I learnt from Coaching and this is it.
 
-It's about being aware of my self more clearly and try to find the way to get over the whatever obstacle I have in front of me, where and how did I learn it?
+Some people say that they are not sure if they are living the life or they are being lived by the life. This kind of feeling comes when you have no plan but very busy with your life.
 
-I saved club 2 times, one from GSTM which was in Gumi Smart City campus Toastmaster Club, and the other from Samsung One Toastmasters Club.
-I pass the SW certification test after 5 years of trial by confessing it and confronting in speech and even getting help with toastmaster members
-which was one of the major reason that I could become principal engineer. 
-I could become certified Coach by the help of two 마루타 from club and now I even make my vision with pathway project. I can see one of that 마루타 there. 
+you spend hack of day and right  before you fall into sleep, you just realized that non of the thing that you did today, was for you.
 
-Thank you Youngman.
+Have you ever felt about this?
 
-What I want to say is this, I love Toastmaster, but more than that, I love the people in this club because thats the value of this community.
+This is also related to the terms called Nudge, people say that it's important to follow the your mind, do what you love! have you heard about that? but what if I don't know what I love?
+I'm not sure what I should do for my life. Even if I know what I love, I sometimes lose control of my life because of time, relationship, and the motivation.
 
-I want each and every one of you can have own way of success in this club because I know what I experenced will not be same as yours, but whatever you experience
-from here, if you open yourself to it and embraces the challenge with joy, you will feel happy not the same kind of happy that I had, but best version of your own happiness.
+and for that we use Nudge, because Nudge will give you the power to move yourself to the goal you wish to reach with your free will.
 
-You remember I told you I almost lost my club 2 times but I got so much insight from that experiences now. 
-This club may seem like small world, but you can experience and experiment anything you wish for so.. 
+Some of you remember the survey I did with Toastmasters member, those are the main 4 questions.
 
-My vision is to build basecamp for the members of toastmaters so that they can setup vision with action plan and experiment it. 
+===================================
+1) What is your primary goal in Toastmasters Journey?
 
-and for your information, it's already started.
+2) To make your plan aligned to your primary goal, where do you want to focus in coming 6 month?
+
+3) How do you imagine yourself after 6 Month? (please describe your self when you successfully accomplish your plan)
+
+4) Did you make your action plan to achieve your goal? (your action plan need to be reflected to the Role Sheet excel for SOTM)
+===================================
+
+
+It's about what's your goal and how do you want to achieve it. let's make plan. Can you see what's Nudge in here?
+
+It's action plan in 4th. Do you know the difference between behavior and Action? Behavior does not have intention but Action does, that's why we call Action Plan, not behavior plan.
+
+Anyway, if you followed this survey properly, your plan should be reflected to the RoleSheet, what it does is.. it will change the your default action of meeting participation to Yes instead of No.
+
+So.. it will help you achieve your goal by helping you "not to think too much about whether you will come to practice your speech or not" but just come and do.
+
+We've had 11 people so far who attended for this program, and after around a few months we will see how those people will feel about themselves.
+
+from club president's perspective, they helped to prepare the club meeting in advanced, from Coach's perspective this will tell me was it really helpful? so that i can use this kind of concept again in the future.
+and you as participants? you will see how powerful it is if you live your life as you intended. 
+
+We haven't seen the result yet, so I can not gaurentee anything.. but I'm very very curious about the result of those who participated well after 6 month.
+
+ah~ by the way, if you also want to give it a try, just write down your answer to this question and share it to me and reflect your action plan to the rolesheet, and live your life, let's see what's going to be changed, because we have nothing to lose right?
 
 Thanks.
-
-
-
-
-
-
 
