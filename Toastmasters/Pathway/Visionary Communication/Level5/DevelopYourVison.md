@@ -1,4 +1,6 @@
-Proof of Concept for the bigger world
+## Proof of Concept for the bigger world
+
+<br>
 Have you ever heard of the word, POC before? This is a kind of jargon that we use in the engineering world when there is something that we think good, but not sure if it's really working in the real world, we try to make it to see if it's really working as we expected.
 In my life, it's full of POC, first, in order to understand the feeling of "being 1st means everything", I joined high school basketball team and until I graduate the university, I competed in game so many time to get the championship. Although it's not like national basketball team or NBA, It was still very sweat to win the competition.
 But I realized after around 10 years of trial that winning is not everything in my life, it feels good for very short period of the time but somehow I'm not that kind of person who likes to win over other people.
