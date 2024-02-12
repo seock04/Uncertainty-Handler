@@ -13,7 +13,7 @@
 ### KPC (Korea Professional Coach Certificate)
 * 시험일정 (TBD)
 * [CiT 3Cs Coaching Plus](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/Coaching%2B.md)
-  * 교육담당: 노바 이영혜 코치, 나영신 코치, 임민정 코치
+  * 교육담당: 노바 이영혜 코치, 나영신 코치, 임민정 코치, 오향화 리드
   * 일시: 23년 9월 15, 16, 23일
   * 교육과정:
     * ICF 핵심역량모델, 에너지듣기, 질문하기, 코칭언어, 코칭관계, 코칭대화모델 STAR, FEN
