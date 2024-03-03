@@ -11,7 +11,14 @@
 * [코칭 블로그](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/Blog.md)
 
 ### KPC (Korea Professional Coach Certificate)
-* 시험일정 (TBD)
+* 시험일정 (KPC 97차)
+  * 서류접수: 5월27~29일
+  * 필기접수: 6월10~12일
+  * 필기시험: 6월17~18일
+  * 실기접수: 6월19~21일
+  * 실기시험: 7월6일
+  * 결과발표: 7월15일
+* [시험 대비 질문 리스트](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/KPC-STAR%2B.md)
 * [CiT 3Cs Coaching Plus](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/Coaching%2B.md)
   * 교육담당: 노바 이영혜 코치, 나영신 코치, 임민정 코치, 오향화 리드
   * 일시: 23년 9월 15, 16, 23일
