@@ -1,5 +1,5 @@
 ## Coaching Journey
-* [코칭일지](https://docs.google.com/spreadsheets/d/1GNGLjz6dMy2fIAj7vyseQAsomXZ94kgx/edit?rtpof=true&sd=true)
+* [코칭일지](https://docs.google.com/spreadsheets/d/1940jdVJYiU9xAdjK3c7BHe7qEEsqBsmq/edit?usp=sharing&ouid=109575571854883866112&rtpof=true&sd=true)
 * [참고자료](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/references.md)  
 * [경험기록](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/Client.md)
 * [필기 시험 공부 자료](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/KAC%20Written%20Test%20Study.md)    
@@ -8,7 +8,7 @@
 * [STAR Coaching Session Model Question List](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/STAR%20model(Eng%20version).md)
 * [나만의 웰컴 패키지](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/Welcome%20to%20Coaching%20World.md)
 * [2023 "변화 코치"의 코칭 비전](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/2023%20Coaching%20Vision.md)
-* [코칭 블로그](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/Blog.md)
+* [코칭 블로그](https://blog.naver.com/uncertainty-handler)
 
 ### KPC (Korea Professional Coach Certificate)
 * 시험일정 (KPC 97차)
