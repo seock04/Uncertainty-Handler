@@ -18,7 +18,7 @@
   * 실기접수: 6월19~21일
   * 실기시험: 7월6일
   * 결과발표: 7월15일
-* [시험 대비 질문 리스트](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/KPC-STAR%2B.md)
+* [시험 대비 질문 리스트](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/KPC%20%EC%8B%9C%ED%97%98%20%EB%8C%80%EB%B9%84%20%EC%A7%88%EB%AC%B8%20%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
 * [CiT 3Cs Coaching Plus](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/Coaching%2B.md)
   * 교육담당: 노바 이영혜 코치, 나영신 코치, 임민정 코치, 오향화 리드
   * 일시: 23년 9월 15, 16, 23일
