@@ -9,7 +9,7 @@
 * [나만의 웰컴 패키지](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/Welcome%20to%20Coaching%20World.md)
 * [2023 "변화 코치"의 코칭 비전](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/2023%20Coaching%20Vision.md)
 * [코칭 블로그](https://blog.naver.com/uncertainty-handler)
-* [도란도란 책읽기]()
+* [도란도란 독서토론](https://github.com/seock04/Uncertainty-Handler/blob/master/Coaching/%EB%8F%84%EB%9E%80%EB%8F%84%EB%9E%80%20%EB%8F%85%EC%84%9C%ED%86%A0%EB%A1%A0.md)
 
 
 ### KPC (Korea Professional Coach Certificate)
