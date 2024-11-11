@@ -5,3 +5,13 @@
 2) Get new member list
 3) Create chat room with [notice](https://github.com/seock04/Uncertainty-Handler/blob/master/Toastmasters/ClubCoach/Membership%20Coaching%20Notice.md)
 4) Run online guide meeting 
+
+
+### Club Coach Report to Toastmasters International
+* Club Coach Appoint
+* Preliminary Report
+* Progress Report
+* Final Report
+* Credit Submition
+
+
