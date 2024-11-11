@@ -10,7 +10,7 @@
 ### Club Coach Report to Toastmasters International
 * Club Coach Appoint
 * Preliminary Report
-* Progress Report
+* Progress Report - Email Sent - 23 Jul 2023 
 * Final Report
 * Credit Submition
 
