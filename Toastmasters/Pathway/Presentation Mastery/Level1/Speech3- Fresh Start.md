@@ -48,7 +48,7 @@ Do you know my plan?
 
 If I were 20 years ago, I may say I aim high, making perpect Toastmasters Club. 
 
-but now I say I will try myself to be supportive at all time until we can charter the Dongtan Toastmasters and I will not regret because I will do my best. 
+but now I say I will try myself to be supportive at all time until we can charter the Dongtan Toastmasters and hoping that I will not regret because I will do my best. 
 
 How about you?
 
