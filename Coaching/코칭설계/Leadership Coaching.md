@@ -5,10 +5,13 @@
 * Role of a Leader and a Member
 
 ----
+
 #### Recap of previous Session
 * Share how you handled the action items and how you feel about it
    * What did you learn?
    * What was your emotion when you did or didn't?
+
+----
 
 #### Conflict Resolutions
 * What is your definition of conflict?
@@ -58,6 +61,8 @@
 * Picture yourself as Leader you want to be, what do you see?, who are you with?, what are you doing with them?
 * Picture yourself as members you want to be, what do you see?, who are you with?, what are you doing with them?
 * How do you want to be like that? (What do you need to do?)
+
+----
 
 #### Recap Current Session & choose Action Item
 * Share the new things that you've learned from this coaching session
