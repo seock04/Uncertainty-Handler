@@ -11,7 +11,7 @@
 ----
 
 ## 전체 운영
-* 관련 파일: (MYBOX)[http://naver.me/54LiwxiD]
+* 관련 파일: [MYBOX](http://naver.me/54LiwxiD)
 
 ### 1주차
 ### 2주차
