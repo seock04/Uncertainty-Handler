@@ -131,5 +131,46 @@
 * 요약: 삶의 목적과 맞는 좋아하는 일이라면(순수의욕과 연결된 일이라면) 이런 어려움을 극복할 수 있다. 
 
 ### 3주차
+#### Check In
+* 소설이나 역사속 인물의 삶을 살 수 있다면 어떤 사람이 되고 싶은가?
+  * 일론 머스크
+#### CMW의 2가지 일
+* Inner work (탐색)
+* Outer work (표현)
+
+#### Work Creation Game
+* 주인공이 GD와 LP를 화면에 띄우고 LP를 읽어준다
+* 주인공의 GD와 LP를 보고 다른 사람들이 직업을 제안한다.
+  * 이 때, 이걸로 어떻게 먹고살지와 같은 고민은 하지 않는다. 제약 없고 모든게 가능하다고 생각하고 창의적으로 제안 
+* 주인공은 제안을 듣고 잘 정리하며, 떠오르는 일이 있다면 같이 적어둔다.
+
+#### 나의 WCG 
+* [나의 GD & LP PPT 파일](https://docs.google.com/presentation/d/1QgUknHZyZCutwH-HdIPAGZ-tAuFsnj6W/edit?usp=sharing&ouid=109575571854883866112&rtpof=true&sd=true)
+* 추천하는 일
+  * NBA 농구 중계 podcast 운영
+  * 퇴근길 노래 프로그램 MC
+  * 퇴근길 노래 불러 영상 올리는 유투브 채널 운영
+  * 나의 오디오 팟캐스트 만들고 운영
+  * 코칭 - 비즈니스/프로젝트 관리
+  * 나의 도전 기록
+  * 리더십에 대한 B급 수다 - 팟캐스트 운영
+  * 트렌드 영상 추천
+
+#### 세번째 & 네번째 안경에 대한 설명
+##### 일반안경
+ * 일은 기존 직업에 자신을 맞추는 것
+ * 일은 한번에 하나의 일만 할 수 있는 것
+
+##### CMW 안경
+ * 일은 자신에게 맞는 일을 창조하는 것
+ * 일은 동시에 여러가지 할 수 있는 것
+
+#### 이야기 해봅시다
+* CMW 안경을 선택한다면 어떤 가능성이 보이십니까? 
+#### 숙제
+* [나의 워크 포트 폴리오](https://docs.google.com/presentation/d/18ztPZ0y5RBnnNBGRcnC30d7llRYLtGhr/edit?usp=sharing&ouid=109575571854883866112&rtpof=true&sd=true)
+* [나의 CMW 명함](https://docs.google.com/presentation/d/1du5O5snqno01Z-AV-xxH6QiT9C24xYh4/edit?usp=sharing&ouid=109575571854883866112&rtpof=true&sd=true)
+
+
 ### 4주차
 
