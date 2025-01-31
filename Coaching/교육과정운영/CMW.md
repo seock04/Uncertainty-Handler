@@ -169,7 +169,7 @@
 * CMW 안경을 선택한다면 어떤 가능성이 보이십니까? 
 #### 숙제
 * [나의 워크 포트 폴리오](https://docs.google.com/presentation/d/18ztPZ0y5RBnnNBGRcnC30d7llRYLtGhr/edit?usp=sharing&ouid=109575571854883866112&rtpof=true&sd=true)
-* [나의 CMW 명함](https://docs.google.com/presentation/d/1du5O5snqno01Z-AV-xxH6QiT9C24xYh4/edit?usp=sharing&ouid=109575571854883866112&rtpof=true&sd=true)
+* [나의 CMW 명함](https://docs.google.com/presentation/d/1Qn54hqF0J55Gqogkz9Om9Oiz4SlTR9Ny/edit?usp=sharing&ouid=109575571854883866112&rtpof=true&sd=true)
 
 
 ### 4주차
