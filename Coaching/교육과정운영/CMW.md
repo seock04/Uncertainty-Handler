@@ -244,6 +244,10 @@
 * 안경 4: 일은 동시에 여려가지 일을 할 수 있는 것이다.
 
 
+마지막 사진
+![image](https://github.com/user-attachments/assets/c7a10410-ac76-4ee1-a48f-b95f6dedb365)
+
+
 
 
 
