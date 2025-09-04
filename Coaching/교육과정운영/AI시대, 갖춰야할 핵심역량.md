@@ -1,6 +1,6 @@
 ### 당신의 AI 시대 vs AI 시대의 당신
 * 연세대 임춘성 교수
-
+* 책: 매개자
 
 * 미래 - 불확실  vs 미래 - 확실한것
 * 엄청난 컴퓨터(성능의 폭등) - 어마무시 데이터(데이터의 폭증)
@@ -90,14 +90,50 @@
 * 엄청난 스태미나
 
 ## 세상을 앞서가고
-* 부자의 3가지 레벨
+### 부자의 3가지 레벨
   * 자기가 벌기 (일하기)
   * 남이 벌어주기(일 하게 하기)
   * 돈이 돈을 벌어주기(일 되게 하기)
+### 매개자
+* 존재 중심
+* 관계 중심
+* 매개자
+  * 연결의 시대
+  * 매개의 전성시대
+  * ![KakaoTalk_20250904_135617455_02](https://github.com/user-attachments/assets/0ad9a66d-653a-45d1-9e77-c7726299c0c3)
+  * ![KakaoTalk_20250904_135617455_01](https://github.com/user-attachments/assets/678a5990-64fd-46f8-8293-85bd27a949b7)
+  * ![KakaoTalk_20250904_135617455](https://github.com/user-attachments/assets/fe6bf69d-ed37-4f6d-976d-1a182933400c)
+
+### 앞서가는 방법
+* ![KakaoTalk_20250904_140000413_01](https://github.com/user-attachments/assets/8b0a7e3d-a93e-46dd-bf15-df1a86507177)
+* ![KakaoTalk_20250904_140000413_02](https://github.com/user-attachments/assets/7dcd64c8-39a5-46fd-a504-7903c552c220)
+* ![KakaoTalk_20250904_140000413](https://github.com/user-attachments/assets/4c240d66-ee3e-41de-83d6-6ee24eb74467)
+
+### AI를 매개자로 
+* 나 - AI(매개자) - 세상
+  * 소통의 매개자 (communicator)
+  * 대행의 매개자 (Agent)
+  * 취사의 매개자 (Filter)
+ 
+### 내가 매개자 되기 
+* AI - 나(매개자) - 세상
+  *![KakaoTalk_20250904_140714748](https://github.com/user-attachments/assets/ff45fd61-8c62-423d-ba68-ed5f55e9094a)
+  * 대행의 매개자 Agent
+  * 취사의 매개자 Filter    
 
 
+### 내가 매개자 되기
+![KakaoTalk_20250904_141104009](https://github.com/user-attachments/assets/1e44acb7-6438-4b5d-be1e-4bb71d49ecc8)
+* 인공지능 내면의 룰 3
+* ![KakaoTalk_20250904_141329159](https://github.com/user-attachments/assets/715e1cb5-a13f-430f-83bf-e8e5179319e1)
+* 인공지능을 상대하는 룰 3
+* ![KakaoTalk_20250904_141445900_01](https://github.com/user-attachments/assets/e849b60d-1ba2-4a96-bbac-70ac5f4dbfab)
+* AI 시대 세상을 상대하는 룰 3
+* ![KakaoTalk_20250904_141445900](https://github.com/user-attachments/assets/df13aaa4-d3ed-462e-9e4d-54ab7a942060)
 
 
+### 선순환 vs 악순환
+* 즐거운 것 => <= 잘하는 것
 
 
 
